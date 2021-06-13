@@ -1,0 +1,602 @@
+npsn,nama_sekolah,alamat,kelurahan,kecamatan,jumlah_siswa,jumlah_guru,kepala_sekolah,telp_sekolah,akreditasi,latitude,longitude
+11298527,SMK Insan Aqilah 4 Jakarta,Jl. Penerangan No. IA,Wijaya Kusuma,Grogol Petamburan,47,6,Kartika Vica Zuspita,021 5688893,Tidak Terakreditasi,,
+20100104,SMK Kartini 1 Jakarta,Jl. Katini Raya No. 26,Kartini,Sawah Besar,139,8,,021 6597662,A,-6.158000,106.836601
+20100105,SMK Kampung Jawa Jakarta,Jl. Percetakan Negara 2,Johar Baru,Johar Baru,384,29,,021 4212680,B,-6.186982,106.856354
+20100108,SMK Jakarta Pusat 1,Jl. Abdul Muis No. 44,Petojo Selatan,Gambir,704,45,"LILIK BINTORO TP. SH., MM.",021 3843975,A,-6.175566,106.820168
+20100110,SMK Katolik Sint Joseph Jakarta,Jl. Kramat Raya No. 134,Kenari,Senen,28,9,"YOVITA TRIWILUDJENG, S.Pd",021 31904023,B,-6.188142,106.846024
+20100113,SMK Kristen Ketapang,Jl. KH. Zainul Arifin No.9,Petojo Utara,Gambir,0,9,TRISMAN DAELY,021 6342103,A,-6.160716,106.813980
+20100114,SMK Ksatrya Jakarta,Jl. Percetakan Negara D232,Cempaka Putih Timur,Cempaka Putih,307,35,,021 4256689,A,-6.187400,106.869667
+20100115,SMK Muhammadiyah 1 Jakarta,Jl. Garuda No. 33 Kemayoran,Gunung Sahari Selatan,Kemayoran,759,35,"SARJU SUSANTO, S.Pd, MM",021 42879461,A,-6.161760,106.842667
+20100116,SMK Muhammadiyah 10,Jl. Kramat Sawah Baru No. 254,Paseban,Senen,68,14,Drs. MUDAKIR,"021 31904549, 0813 88767317",B,-6.189308,106.851074
+20100117,SMK Jakarta Dua,Jl. Cempaka Baru Tengah 1-3,Cempaka Baru,Kemayoran,481,32,"Zainul Amin, SPd",021 4269377,B,-6.178105,106.833389
+20100118,SMK Said Naum,Jl. KH. Mas Mansyur No. 25 Tanah Abang,Kebon Kacang,Tanah Abang,146,19,"Mohamad Rozikin, S.Pd.",021 3910157,B,-6.191457,106.817368
+20100119,SMK Al-Irsyad Al-Islamiyah,Jl. K.H. Hasyim Ashari No. 27,Petojo Utara,Gambir,273,16,Drs. SYAFRUDIN,021 22630265,B,-6.165754,106.815964
+20100131,SMK At-Taqwa,Jl. Rajawali Selatan VI No. 18,Gunung Sahari Utara,Sawah Besar,168,22,Dra. Wahyuni Budiwati,021 6406337,A,-6.145382,106.839951
+20100132,SMK Bethel,Jl. KS. Tubun No. 253,Petamburan,Tanah Abang,143,16,"Ruspinus , S.Sos",021 53653733,B,-6.196200,106.805901
+20100133,SMK Bina Darma DKI,Jl. Abdul Rahman Saleh I No. 10/A Senen,Senen,Senen,161,22,SIMON SIMANJUNTAK,021 34833297,A,-6.178812,106.839417
+20100136,SMK Dharma Bhakti,Jl. Mardani Raya No.7,Cempaka Putih Timur,Cempaka Putih,1,11,Drs. SOEJITNO,021 4204386,B,-6.184424,106.862389
+20100137,SMK Dwikora 2 Jakarta,Jl. Kramat Pulo II Gandul,Tanah Tinggi,Johar Baru,22,13,Djuwatno,021 92732068,C,-6.184365,106.849716
+20100138,SMK Dwikora 1 Jakarta,Jl. Kramat Pulo II Gandul,Tanah Tinggi,Johar Baru,0,10,Djuwatno,021 92732068,C,-6.182447,106.848244
+20100139,SMK Santo Fransiskus 2 Jakarta,Jl. Kramat Raya No. 67,Kramat,Senen,59,15,"MIAN NABABAN, SE",021 3909254,A,-6.154945,106.844681
+20100140,SMK Al Ihsan Jakarta,Jl. Kebon Kacang 17/57,Kebon Kacang,Tanah Abang,206,12,"As'adi, HR, SE",021 3103313,B,-6.192276,106.818863
+20100141,SMK Muhammadiyah 11 Jakarta,Jl. Cempaka Wangi II/12,Harapan Mulia,Kemayoran,407,19,RIYANI. Dra,021 4222125,B,-6.167955,106.856522
+20100142,SMK Muhammadiyah 2 Jakarta,Jl. KH. Mas Mansyur No. 65,Kebon Melati,Tanah Abang,1,16,"Hj. Lazuardiah, S.Ag.",021 3146245,B,-6.197051,106.814507
+20100143,SMK Negeri 1,Jl. Budi Utomo No. 7,Pasar Baru,Sawah Besar,900,74,Asep Supriatna Hadiri,021 3813630,A,-6.167041,106.837784
+20100144,SMK Pariwisata Paramitha 2,Jl. Suryo Pranoto No.20,Petojo Utara,Gambir,14,16,"LAMBERTUS LAGADONI LEDJAP, S.S",021 63853026,B,-6.169683,106.816101
+20100149,SMK PGRI 25 Jakarta,Jl. Mesjid No. 1,Karet Tengsin,Tanah Abang,127,15,Dra. Dwi Nurhayati,021 5713126,B,-6.210006,106.814743
+20100151,SMK PGRI 31 Jakarta,Jl. Sabeni No. 12,Bendungan Hilir,Tanah Abang,323,28,"Dra. Hj. Mulyanti, MMPd",021 3928060,B,-6.193330,106.813881
+20100152,SMK PGRI 34,Jl. Sangihe No. 26,Cideng,Gambir,120,18,Drs. AMBUL RIYANTO,021 63852778,B,-6.170593,106.809631
+20100153,SMK PGRI 4 Jakarta,Jl. Percetakan Negara XI A,Rawasari,Cempaka Putih,238,28,Drs. ASNAN MUHAYAT,021 4261308,B,-6.191251,106.864517
+20100156,SMK Negeri 54,Jl. Bendungan Jago No. 53,Serdang,Kemayoran,300,47,Drs. Rahmedi,021 4248741,A,-6.155518,106.860794
+20100157,SMK Negeri 44,Jl. Harapan Jaya 9/5A,Cempaka Baru,Kemayoran,535,33,"Drs. H. TAUFIK, M.Pd",021 4240912,A,-6.167804,106.863800
+20100158,SMK Negeri 14,Jl. Percetakan Negara II A,Johar Baru,Johar Baru,841,47,"SUYAMTI, SPd. MM",021 4240543,A,-6.178444,106.857780
+20100159,SMK Negeri 16,Jl. Taman Amir Hamzah,Menteng,Menteng,604,35,"SUSWATI, S. Pd",021 3904112,A,-6.204058,106.850189
+20100160,SMK Negeri 19,Jl. Danau Limboto No. 11,Bendungan Hilir,Tanah Abang,600,32,Drs. Suhendar,021 5734929,A,-6.198240,106.807655
+20100161,SMK Negeri 2,Jl. Batu No. 3,Gambir,Gambir,585,38,"ISMUNANTO, DRS, MM",021 3846219,A,-6.178732,106.834259
+20100162,SMK Negeri 21,Jl. Siaga I Gg. Swadaya III,Kebon Kosong,Kemayoran,516,34,"Dra. HJ. SITI NURYANINGSIH, M.M","021 98168518, 021 4247475",A,-6.159326,106.853256
+20100163,SMK Negeri 27,Jl. Dr. Sutomo No. 1,Pasar Baru,Sawah Besar,604,76,"Eti Suyanti, M. Pd.",021 3845739,A,-6.166044,106.835861
+20100164,SMK Negeri 3,Jl. Garuda No. 63,Gunung Sahari Selatan,Kemayoran,335,34,"Aziza, S.Pd",021 4209629,A,-6.161881,106.844078
+20100165,SMK Negeri 31,Jl. Kramat Jaya Baru Blok D II,Johar Baru,Johar Baru,531,33,,021 4246015,A,-6.181825,106.851952
+20100166,SMK Negeri 34,Jl. Kramat Raya No. 93 Paseban,Paseban,Senen,405,53,"Drs. H. Ansyori Bunyamin, M.Pd",021 3909035,A,-6.191585,106.851456
+20100167,SMK Negeri 38,Jl. Kebon Sirih No. 38,Gambir,Gambir,238,28,SITI HABIBAH,021 3441788,A,-6.181852,106.817123
+20100168,SMK Negeri 39,Jl. Cempaka Putih Tengah VI No. 2,Cempaka Putih Timur,Cempaka Putih,626,53,ANSOR,021 4246845,A,-6.163425,106.876320
+20100282,SMK PSKD 1 Jakarta,Jl. Prajurit KKO Usman dan Harun No. 26,Kenari,Senen,87,14,BUDIMAN SITORUS,021 3851230,A,-6.186457,106.841728
+20100286,SMK Yapermas Jakarta,Jl. Anyer No. 7,Menteng,Menteng,449,24,"TAYUDIN, SAg",021 31930583,B,-6.202907,106.844032
+20100288,SMK YP IPPI Petojo,Jl. Petojo Barat III/2,Petojo Utara,Gambir,2035,92,Drs. MUKIDJO MARTOYO,021 6318984,A,-6.163697,106.811821
+20100294,SMK Taman Siswa 1 Jakarta,Jl. Garuda No. 25,Gunung Sahari Selatan,Kemayoran,500,29,SAPTO UDIYONO,021 4224336,A,-6.161940,106.842522
+20100295,SMK Taman Siswa 3 Jakarta,Jl. Matraman Dalam II/13,Pegangsaan,Menteng,77,18,DRA. NUNUNG DWI ASTUTI,021 31902625,B,-6.200419,106.853165
+20100296,SMK Taman Siswa 2,Jl. Garuda No. 44,Kemayoran,Kemayoran,356,38,"Lilik Dwiantoro, S.Pd",021 420 8347,A,-6.161690,106.845482
+20100298,SMK Saint John,Jl. Bungur Besar No. 82A,Gunung Sahari Selatan,Kemayoran,33,12,Rina Kartika Sari,021 4213645,A,-6.118708,106.774475
+20100299,SMK Santa Maria Jakarta,Jl. Ir. H. Juanda No. 29,Kebon Kelapa,Gambir,384,22,"MARGARETA WAHYU DWI UTARI,S.Pd",021 3522146,A,-6.166914,106.824196
+20100300,SMK Santa Theresia,Jl. Gereja Theresia No. 4,Menteng,Menteng,209,44,"Natalia Lina Kartika, S.Pd.",021 3907169,A,-6.189573,106.826012
+20100301,SMK Santo Paulus,Jl. Setia Kawan Raya No. 39-41,Duri Pulo,Gambir,79,14,"ADRIANI MALAIHOLLO, S.Pd",021 29828851,B,-6.167180,106.815666
+20100303,SMK Strada 1 Jakarta,Jl. Gunung Sahari No. 88,Gunung Sahari Selatan,Kemayoran,331,18,Ignatius Budi Santoso Cl,021 42872335,A,-6.169391,106.840660
+20100306,SMK Al Makmur,Jl. Raden Saleh,Menteng,Menteng,69,11,"HASNUN, SSos.I.",021 3920518,B,-6.187022,106.842377
+20100307,SMK Poncol,Jl. Mutiara Raya,Sumur Batu,Kemayoran,0,30,H. MOCHAMMAD HENDRO SANTOSO,021 4252110,B,-6.164200,106.869202
+20100775,SMK Jaya Jakarta,Jl. Perintis Kemerdekaan,Kelapa Gading Barat,Kelapa Gading,380,29,Amir,021 4524420,A,-6.174222,106.905602
+20100783,SMK Negeri 12,Jl. Kebon Bawang XV,Kebon Bawang,Tanjung Priok,56,41,Sunarto. S.Pd,021 43932785,A,-6.107784,106.889908
+20101468,SMK Wiyata Satya,Jl. Taman Mutiara Prima No 3 Gili Sampeng Kebon Je,Kemanggisan,Palmerah,501,28,,021 53667809,B,-6.190640,106.794090
+20101469,SMK Sinar Dharma,Jl. KH. Moh. Mansyur No. 29,Kredang,Tambora,28,14,"Christine Halim, BBA",021 6394636,A,-6.149401,106.807503
+20101470,SMK Sentosa,Jl. Madu No. 276,Mangga Besar,Taman Sari,58,9,"SYARIF PANJAITAN, S.Pd.",021 6290745,A,-6.144961,106.841309
+20101471,SMK Satria Jakarta,Jl. Srengseng No. 26 A,Srengseng,Kembangan,1431,59,"R. Erwin Nur Bhakti, ST, MM",021 5856405,A,-6.208674,106.759918
+20101472,SMK Santo Leo,Jl. Mangga Besar Raya/43,Tangki,Taman Sari,99,14,"Theresia Yayuk Hartiwi,Dra",021 6398849,A,-6.141755,106.817703
+20101474,SMK Reformasi,Jl. RAYA SANGGRAHAN,Kembangan Utara,Kembangan,168,18,"ALO SARIFUDIN, S.Pd",0856 1555949,C,-6.191915,106.756149
+20101475,SMK Putra Nusa Jakarta,Jl. Pelopor No. 45,Tegal Alur,Kalideres,0,14,"Ummu Atiyah, S.Pd.",021 55954197,B,-6.725000,106.424599
+20101476,SMK PGRI 5 Jakarta,Jl. Peta Barat No. 40 Pegadungan,Kalideres,Kalideres,0,13,Dra. Hj. Lilis T. Kaswati,021 5413959,B,-6.140412,106.695656
+20101477,SMK PGRI 36,Jl. Peta Utara No.46 Komp.Ponpes Minhajut Tholibin,Tegal Alur,Kalideres,227,11,Drs. Y. Waluyo,021 29448418,B,-6.127848,106.719582
+20101478,SMK PGRI 35 Jakarta,Jl. Jati Raya I No. 52,Cengkareng Timur,Cengkareng,330,45,Dra. Hj. Ilah Jamilah,021 5406978,A,-6.146729,106.738220
+20101480,SMK Sumpah Pemuda,Jl. Prapatan Joglo No. 36,Joglo,Kembangan,1401,66,"Marali, S.IP.",021 5862708,A,-6.220629,106.736946
+20101482,SMK Syanggit Cendekia,Jl. Peta Selatan No.58,Kalideres,Kalideres,4,9,H. Suhairi,021 5440401,B,-6.152800,106.705299
+20101483,SMK Widya Patria 2,Jl. Pos Pengumben No. 30,Kebon Jeruk,Kebon Jeruk,471,20,Achmad Zarkasih,0821 22018672,B,-6.216541,106.773911
+20101484,SMK Tunas Harapan,Jl. Komp. BNI 46 Pesing,Wijaya Kusuma,Grogol Petamburan,896,28,Widodo Bendol Djoyo. S.SOS,021 5662306,A,-6.156512,106.772926
+20101485,SMK Tri Ratna Jakarta,Jl. Talib 1 No. 35-37,Krukut,Taman Sari,0,15,"Miko Raharja, SE,Ak",021 63854385,A,-6.158219,106.815140
+20101487,SMK Tri Arga 2,Jl. HH No. 63,Kebon Jeruk,Kebon Jeruk,0,30,"Nur Hasanah, SE",021 5359106,A,-6.200416,106.763786
+20101489,SMK Tomang Raya,"Jl. Kemuning No.14 A, Jati Pulo",Jati Pulo,Palmerah,5,11,"H. M. Yasin AR, S. E.",021 5634610,B,-6.178996,106.798729
+20101490,SMK Teladan Jakarta,Jl. Anggrek Cendrawasih 11 No. 28,Kemanggisan,Palmerah,48,16,"Arista Smarmata, SE",021 53690397,B,-6.198554,106.796844
+20101492,SMK Tanjung Jakarta,Jl. Dr. Nurdin IV No. 1,Grogol,Grogol Petamburan,759,20,"Muhamad Jami, SE.MM.",021 5856405,B,-6.160650,106.793449
+20101493,SMK Taman Sakti Jakarta,Jl. Komp. Kebersihan no. 50 Tegal Alur,Kamal,Kalideres,17,14,Werso Yekti Samekto,021 5595 4288,B,-6.128008,106.719620
+20101494,SMK PGRI 29 Jakarta,Jl. Tanjung Duren Barat Komp Green Ville Blok AY,Slipi,Palmerah,144,20,DRA. RUCHYATI,021 22052287,B,-6.191924,106.800346
+20101495,SMK PGRI 24 Jakarta,Jl. Peta Utara NO.70,Kalideres,Kalideres,187,18,Drs. Darmansyah,021 5406125,B,-6.142785,106.702599
+20101496,SMK Negeri 9,Jl. Gedong Panjang 2 No. 17,Pekojan,Tambora,603,38,,021 6925936,A,-6.121097,106.805939
+20101497,SMK Negeri 60,Jl. Duri Raya No. 15,Duri Kepa,Kebon Jeruk,553,31,"Ida Saidah,M..Pd",021 56960049,A,-6.185817,106.772209
+20101498,SMK Negeri 53,Jl. Flamboyan No. 53,Cengkareng Barat,Cengkareng,867,64,Drs. Caca Sunarsa,"021 25911481, 021 25911482",A,-6.132280,106.725624
+20101499,SMK Negeri 45,Jl. KPBD,Sukabumi Selatan,Kebon Jeruk,712,47,"Aminah, M.Pd",021 5480075,A,-6.215647,106.776756
+20101500,SMK Negeri 42,Jl. Kamal Raya,Cengkareng Timur,Cengkareng,742,44,Drs. SUTARYO,021 6190365,A,-6.109832,106.720795
+20101501,SMK Negeri 35,Jl. Kerajinan No. 42,Krukut,Taman Sari,1031,61,"Dra. Hj. Rus Prihatini, M.Pd",021 6343146,A,-6.153166,106.815620
+20101502,SMK Negeri 17,"Jl. G. Slipi, Slipi",Slipi,Palmerah,382,31,,021 5634610,A,-6.191353,106.800201
+20101503,SMK Negeri 13,Jl. Rawa Belong II-E,Palmerah,Palmerah,959,63,"Arum Sari, M.Pd",021 54929070,A,-6.203291,106.785522
+20101504,SMK Negeri 11,Jl. Pinangsia I No. 20,Pinangsia,Taman Sari,625,36,,021 6241342,A,-6.138080,106.816620
+20101505,SMK Mutiara Bangsa,Jl. Utama Raya No. 2,Cengkareng Barat,Cengkareng,1848,44,"Achmad, M.Pd",021 5447107,A,-6.149731,106.727081
+20101506,SMK Muhammadiyah 4 Jakarta,Jl. Anggrek Neli Murni Blok B - C,Kemanggisan,Palmerah,0,29,"Adi Sugita, S.Pd",021 5685064,A,-6.198839,106.796616
+20101509,SMK Patriot Nusantara,Jl. Kampung Belakang No. 26-27,Kamal,Kalideres,0,22,"MOH. ALI, S. Sos",021 5555875,B,-6.104890,106.695648
+20101510,SMK PGRI 2 Jakarta,"Jl. Kembangan Utara No. 1, Basmol",Kembangan Utara,Kembangan,91,15,"Nur Amin, S.Pd, M.M.",021 92827796,B,-6.180300,106.741440
+20101511,SMK PGRI 15 Jakarta,Jl. H. Muchtar Raya Gg. H. Doel,Pesanggrahan,Pesanggrahan,466,39,Syafrudin H. S.Pd,021 58904487,A,-6.230107,106.747108
+20101515,SMK Permata Bunda 2 Jakarta,Jl. Taman Sari Raya No. 75 C-D,Taman Sari,Taman Sari,0,14,Tumiran.M.Pd,021 6394636,B,-6.151406,106.826614
+20101517,SMK Permata Bunda I Jakarta,Jl. Jamlang Raya No. 2,Duri Selatan,Tambora,177,15,,021 6318076,B,-6.160985,106.804771
+20101518,SMK Pelita IV,Jl. Pos Duri Raya No. 23-29,Duri Utara,Tambora,92,19,"Melania Pepe, SPd",021 6300966,A,-6.156024,106.801842
+20101520,SMK Taruna Bahari,Jl. Puri Kembangan No. 2,Kedoya Selatan,Kebon Jeruk,41,13,"Hirmad Sinambela,SH,MM",021 5822894,B,-6.176805,106.746826
+20101521,SMK Muhammadiyah 3 Jakarta,Jl. Gelong Baru No. 23 A,Tomang,Grogol Petamburan,314,19,"ACHMAD WAHYUDI, S.Kom",021 56978267,A,-6.176557,106.797035
+20101559,SMK YMIK Jakarta,Jl. Raya Joglo Komp. DPR RI,Joglo,Kembangan,1177,34,"Fajar Rinawati,Dra",021 5649171,A,-6.219427,106.721558
+20101560,SMK Yadika 3 Jakarta,Jl. Kamal Raya No. 42,Tegal Alur,Kalideres,74,24,"Lontung Ritonga,S.Kom",021 5550795,A,-6.117815,106.713120
+20101561,SMK Yadika 2 Jakarta,Jl. Tg. Duren Barat IV No. 8,Tanjung Duren Utara,Grogol Petamburan,486,38,Drs. Kastel Sinurat,021 5413959,A,-6.177868,106.781441
+20101577,SMK Yadika 1 Jakarta,Jl. Kamal Raya No. 42,Tegal Alur,Kalideres,396,39,"Caskam Cahyadi, M.M., M.Pd",021 5550795,A,-6.122121,106.723236
+20101578,SMK Bina Insan Mandiri Jakarta,Jl. Meruya Ilir Komp. Qaryah Thayyibah Blok A,Srengseng,Kembangan,0,32,Hasyim Noer,021 5847054,A,-6.199168,106.757950
+20101580,SMK 1 Citra Adhi Pratama,Jl. Raya Outer Ring Road No. 21,Cengkareng Timur,Cengkareng,271,16,DRS. H. ALIMIN IDRIS,021 29440861,B,,
+20101581,SMK Cengkareng 1 Jakarta,Jl. Bambu Larangan No. 67,Cengkareng Barat,Cengkareng,1409,74,"Aswadih,S.Ag. MM",021 5418110,A,-6.142635,106.718033
+20101582,SMK Widya Patria 1,Jl. Tanjung Duren Barat 1 No. 1 Green Ville Blok A,Kebon Jeruk,Kebon Jeruk,36,4,"Nurmawati Napitupulu, M.Pd",021 56963237,B,-6.171308,106.777000
+20101592,SMK Al Huda Jakarta,Jl. H. Alimun No 48,Kebon Jeruk,Kebon Jeruk,171,19,"Mohamad Fahrul Rozi, S.T.",021 5361634,A,-6.203148,106.768494
+20101593,SMK Bhineka Tunggal Ika,Jl. KH. Moh Mansyur No. 222A,Tanah Sareal,Tambora,63,16,Suharititi. Dra,021 6310070,A,-6.147252,106.806580
+20101595,SMK Bhara Trikora 1,Jl. Kav. POLRI Blok F,Jelambar,Grogol Petamburan,0,20,IMAM MAHDI,021 5649171,A,-6.160014,106.781715
+20101596,SMK Bhakti,Jl. Karya Barat I Ujung No.24 Jakarta Barat,Wijaya Kusuma,Grogol Petamburan,31,14,IR.H.MUHAMMAD ROFIK,021 5678111,C,-6.161085,106.773727
+20101599,SMK Al Washilah 1 Jakarta,Jl. Kampung Baru No. 20,Kembangan Utara,Kembangan,113,18,"Sahata Pane, ST",021 58357643,B,-6.168344,106.750732
+20101600,SMK Al Hamidiyah,Jl. Raya Kedoya Selatan No. 50,Kedoya Selatan,Kebon Jeruk,0,24,"H. Hamdani, S.Pd",021 58303557,B,-6.179809,106.760231
+20101601,SMK Al Mafatih Jakarta,"Jl. H. Junaidi No.79, Palmerah",Palmerah,Palmerah,140,11,ELVIA,021 53660882,B,-6.198025,106.793045
+20101602,SMK Al Ihsan Jakarta,Jl. Raya Masjid Al Ihsan Kav. DKI Blok BZ Meruya,Kembangan Utara,Kembangan,278,14,"Drs. U. Thohary, MM",021 5857083,B,-6.198544,106.729362
+20101632,SMK Muhammadiyah 13 Jakarta,Jl. Beringin Raya No. 36-37,Cengkareng Barat,Cengkareng,153,23,"Hj. Munawaroh, S.Pd",021 54397718,B,-6.151126,106.719788
+20101634,SMK Kartika X-1,Jl. Daan Mogot Km. 17,Kalideres,Kalideres,234,32,"Drs. SEVERUL CAHYO K., MM",021 5409743,A,-6.156364,106.697823
+20101636,SMK K Pancaran Berkat,Jl. Setia Jaya Raya No. 100,Jelambar,Grogol Petamburan,114,17,"Drs. Epril Tua Hasibuan, MM",021 5638992,A,-6.148200,106.787903
+20101637,SMK Josua Jakarta,Jl. Kotabambu Utara 2 No. 8,Kota Bambu Utara,Palmerah,79,26,"Abdul Kadir, S.Pd",021 5638181,B,-6.185605,106.807266
+20101638,SMK Jakarta IV,Jl. Kedoya Selatan No. 200,Kedoya Selatan,Kebon Jeruk,20,19,"Idris, SH",021 58356828,B,-6.140560,106.953484
+20101639,SMK Jakarta III,Jl. Kedoya Raya No. 200,Kedoya Selatan,Kebon Jeruk,194,18,"Dalih, ST",021 5804187,B,-6.179035,106.757690
+20101640,SMK Jakarta 1,Jl. Peta Selatan No. 24,Kalideres,Kalideres,0,35,"Ilham Prihatmono,SH",021 5402606,A,-6.147267,106.703262
+20101641,SMK Islam A.A,Jl. Tanjung Duren Dalam IV/25,Tanjung Duren Selatan,Grogol Petamburan,1123,67,"Muhammad Fathoni, S.Kom, M.Pd",021 5685064,A,-6.178276,106.780937
+20101642,SMK Islam Perti Jakarta,Jl. Tawakal Raya No. 99,Tomang,Grogol Petamburan,0,27,,021 5608713,A,-6.170144,106.794434
+20101644,SMK Kebon Jeruk Jakarta,Jl. Ayub Dalam No. 26 B,Sukabumi Utara,Kebon Jeruk,286,22,"Dwi Pujiono, SPd",021 5357325,B,-6.205264,106.776718
+20101645,SMK Kebudayaan,Jl. Semanan Raya Kp. Tanah Tinggi No. 90,Semanan,Kalideres,41,12,"Drs. H.Suyudi,SE,M.Pd",021 96275337,B,-6.145337,106.710152
+20101648,SMK Ma'arif Jakarta,Jl. Dr. Muwardi Raya No. 19,Grogol,Grogol Petamburan,366,24,Dra. Heryati,021 5602622,B,-6.163004,106.794334
+20101649,SMK Lamaholot Jakarta,"Jl. Manggis Raya Bojong Indah, Rawabuaya",Rawa Buaya,Cengkareng,91,10,"Antonius Ata Goran,S.Pd",021 58355339,B,-6.163994,106.736641
+20101652,SMK K. Rahmani,Jl. Mangga Besar R. Tangki,Tangki,Taman Sari,138,10,Endang Dwi Suparmiati,021 6254126,B,-6.147664,106.821114
+20101656,SMK Kesatuan,Jl. Kesatuan No.1 kp.Klingkit,Rawa Buaya,Cengkareng,306,17,Sudimin Danasasmita,021 58300174,A,-6.156400,106.728104
+20101658,SMK Islam Bahagia,Jl. Pesima Raya No.15,Kalianyar,Tambora,332,22,,021 6312725,B,,
+20101660,SMK Dhamma Savana Jakarta,Jl. Padamulya VI No. 176 B,Angke,Tambora,73,10,"Suwarno, S.E.","021 6348144, 021 6300967, 021 6348156",A,-6.143715,106.792427
+20101661,SMK Dewi Sartika,Jl. Tanjung Duren Barat 1,Duri Kepa,Kebon Jeruk,329,25,"Drs. H. Bambang Sumiran, M.Si",021 56942478,A,-6.186514,106.775421
+20101662,SMK Cindera Mata Indah Jakarta,Jl. Duri Raya (TSS) Gg. Budi No. 86,Duri Utara,Tambora,99,12,"Maria Magdalena, S. Th",021 6312425,B,-6.158724,106.803368
+20101665,SMK Cengkareng Jakarta,Jl. Peta Selatan No. 53 Kalideres,Pegadungan,Kalideres,114,11,Drs. Lindung Manurung,021 5456938,B,-6.822000,106.429001
+20101668,SMK Bunga Nusa I,"Jl. Rawa Bengkel Sdn 19 Pagi, Cengkareng Barat",Cengkareng Barat,Cengkareng,60,10,MUHAMAD ABDUH .ST,021 5447107,A,-6.141474,106.725876
+20101670,SMK Budi Murni 2,Jl. Puri Kembangan No. 2,Kedoya Selatan,Kebon Jeruk,669,34,Dra. Pitta. R. Sirait,021 5812956,A,-6.180818,106.750168
+20101673,SMK Dian Jakarta,"Jl. Pedongkelan Belakang No. 128, Kapuk",Kapuk,Cengkareng,81,11,Drs. R. Siringoringo,021 54360287,B,-6.151186,106.749146
+20101674,SMK Duta Bangsa Jakarta,"Jl. Kapuk Raya No. 71, Kapuk",Kapuk,Cengkareng,117,12,"Murdani Arbi,S.Pd, MM",021 98648788,B,-6.130994,106.743477
+20101674,SMK Duta Bangsa,Jl. Kapuk Raya Gg. Masjid No. 71,Kapuk,Cengkareng,225,7,"Murdani Arbi, S. Pd, MM",021 98648788,B,,
+20101675,SMK IP. Yakin,"Jl. Bangun Nusa No. 10, Cengkareng",Cengkareng Timur,Cengkareng,709,33,Sukandar SS,021 5414614,B,-6.151475,106.730026
+20101677,SMK Ibu Pertiwi 2 Jakarta,Jl. S. Parman No. 69,Slipi,Palmerah,367,30,Drs. Pandi Supandi,021 5330692,B,-6.200305,106.798470
+20101679,SMK Ibu Pertiwi 1 Jakarta,Jl. Let. Jend. S. Parman No. 69,Slipi,Palmerah,0,14,Dra. Widowati Soegeng,021 70624646,A,-6.193888,106.797432
+20101680,SMK Harvard Jakarta,Jl. P. TB. Angke No. 33,Angke,Tambora,56,14,"Samsu,S.E",021 6302294,B,-6.142729,106.795990
+20101681,SMK Harapan Raya,Jl. Kapuk Raya Gg. Sinar 5,Kapuk,Cengkareng,2,22,"MAMIK PIPIT PRIYANTI., S.Pd. I",021 6192070,B,-6.139486,106.765900
+20101682,SMK Harapan Jaya,"Jl. Daan Mogot Km 13, Cengkareng Timur",Cengkareng Timur,Cengkareng,297,23,Ir. Prawira Dirja,021 5401920,B,-6.153785,106.732750
+20101685,SMK Eka Sakti,"Jl. Ukir Raya No. 30 A, Cengkareng",Cengkareng Timur,Cengkareng,158,14,"Asep Suhendar, M.Pd",021 5453289,B,-6.152556,106.746468
+20101686,SMK Duta Mas Jakarta,"Jl. Wijaya No. VIII/9, Komp. Taman Duta Mas",Wijaya Kusuma,Grogol Petamburan,181,12,"Drs. Sirajuddin, MM, M.Si.",021 5640322,B,-6.150865,106.779228
+20101687,SMK Bina Karya,Jl. KH. Moh. Mansyur No. 19-25,Kredang,Tambora,232,28,"Sri Partini, Dra. MM",021 63851942,A,-6.150178,106.808205
+20102433,SMK YPK Kesatuan Jakarta,Jl. Manggarai Utara VII,Manggarai,Tebet,529,28,Drs. Lukman Simanjuntak,021 8314770,B,-6.210725,106.852592
+20102434,SMK Teladan,Jl. Raya Srengseng Sawah,Srengseng Sawah,Jagakarsa,428,30,Drs. Imran Isa,021 7871909,A,-6.347192,106.822166
+20102435,SMK Tarakanita,Jl. Pulo Raya IV/17,Petogogan,Kebayoran Baru,172,29,Drs. Antonius Slamet Sudarsono,021 7230148,A,-6.246231,106.811752
+20102436,SMK Tanjung Barat,Jl. Melati No. 100,Tanjung Barat,Jagakarsa,79,13,,021 7822804,B,-6.298199,106.842461
+20102438,SMK Sumber Daya Manusia,Jl. Amil Buncit Indah I B,Kalibata,Pancoran,0,14,Sumiyanto,021 7944204,B,-6.162418,106.495529
+20102439,SMK Islam Andalus,Jl. Bangka II F No. 32,Pela Mampang,Mampang Prapatan,103,14,,021 71793094,B,-6.245489,106.819298
+20102441,SMK Selagan Jaya,Jl. H. Ipin No.10,Pondok Labu,Cilandak,79,15,"H. A. Jayadi Umar, M. Pd",021 7506211,B,-6.311175,106.792702
+20102445,SMK RPI Jakarta,JL. H.R. RASUNA SAID KAV. X2-2,Kuningan Timur,Setia Budi,71,18,"Ahmad Azka Irfani, M.Pd",021 290 21 820,A,-6.208062,106.831001
+20102448,SMK Tunas Pembangunan,Jl. Abdul Majid (KH. Moch. Naim I) No. 68,Cipete Utara,Kebayoran Baru,377,21,"Dra. Hj. MULYATI,MM",021 7261850,A,-6.266440,106.806892
+20102450,SMK Walisongo Jakarta,Jl. Kalibata Timur No. 30,Kalibata,Pancoran,576,35,"Shahlani, S.Pd",021 7901441,A,-6.262316,106.845650
+20102451,SMK YP Mulia,Jl. Ciputat Raya No. 1-2 Komp. Perhubungan,Kebayoran Lama Selatan,Kebayoran Lama,144,11,"Tuti Rahayu, SE",021 72895758,B,-6.282895,106.770950
+20102457,SMK Yasda,Jl. Patra Kuningan XV,Menteng Dalam,Tebet,69,17,"Hj. Eka Zainah Zaini,S.Pdi,MM",021 8355865,B,-6.228274,106.836670
+20102458,SMK YAPRI Jakarta,Jl. KH. Muhasyim IV/7i,Cilandak Barat,Cilandak,129,11,"Abdul Syakur,SE.M.Pd",021 7511641,B,-6.289129,106.790260
+20102459,SMK Yapimda,Jl. Poltangan IV No. 34,Pejaten Timur,Pasar Minggu,554,40,"Lukman Hakim, M. Pd",021 7821048,A,-6.296145,106.844368
+20102460,SMK Yaperjasa,Jl. Belimbing Jagakarsa,Jagakarsa,Jagakarsa,0,32,"Drs. Maderis Kosim, M.Pd",021 7863643,B,-6.332741,106.823685
+20102461,SMK Yapenap 1 Jakarta,Jl. Pancoran Barat VI B No. 72,Pancoran,Pancoran,74,10,Syurman Nasir S Kom,021 7902318,B,-6.249705,106.840088
+20102462,SMK Yanusa Jakarta,Jl. Saikin No. 15,Pondok Pinang,Kebayoran Lama,176,17,Heri Susanto,021 7510061,B,-6.284956,106.770935
+20102463,SMK Yanuba,Jl. Timbul No. 60,Cipedak,Jagakarsa,68,11,"Desiva,S.Pd",021 93986813,B,-6.351305,106.808182
+20102465,SMK Putra Satria,Jl. Cileduk Raya 46,Petukangan Utara,Pesanggrahan,482,23,"Risyda Zulfiani, SE",021 5853945,B,-6.233429,106.760941
+20102528,SMK Puspita Persada,Jl. SMU 63 No.40,Petukangan Utara,Pesanggrahan,0,17,"Liana Agusanti J, S.Pd",021 73883179,B,-6.228188,106.747711
+20102529,SMK Grafika Yayasan Lektur,Jl. Pasar Jumat,Lebak Bulus,Cilandak,437,57,,021 7513546,A,-6.289773,106.772751
+20102530,SMK Bina Putra Jakarta,Jl. Kemang Timur Raya No. 50,Bangka,Mampang Prapatan,362,29,"H. Muhammad Agil,S.Pd",021 7183473,A,-6.252636,106.817665
+20102533,SMK Bina Kusuma 1 Jakarta,Jl. Merpati Raya No. 38,Pesanggrahan,Pesanggrahan,81,18,Dra. Sri Nuryaningsih,021 7354605,B,-6.250165,106.759491
+20102536,SMK Averus,Jl. Ciputat Raya No. 11,Pondok Pinang,Kebayoran Lama,927,41,"Drs. H. A. Syarif A.Muthalib,",021 75901457,A,-6.274923,106.773613
+20102537,SMK Asisi Jakarta,Jl. H. Ramli,Menteng Dalam,Tebet,0,13,"A.Aris Napiun , SF,S,Pd",021 8306435,A,-6.231366,106.843452
+20102538,SMK As-Syafi'iyah Jakarta,Jl. Bukit Duri Selatan No. 29,Bukit Duri,Tebet,237,20,"Siti Aisyah, S.Pd",021 8319994,B,-6.220692,106.853172
+20102539,SMK Al Makmur Jakarta,Jl.RM Kahfi I gg. H. Amsar,Cipedak,Jagakarsa,728,31,Saiful Anwar M.Pd,021 78886927,B,-6.345680,106.803719
+20102540,SMK Al Hidayah Lestari,Jl. Kana Lestari Blok K/I Lebak Bulus,Lebak Bulus,Cilandak,479,21,"Hj. Parhanah, SE. MM.",021 7661343,A,-6.294224,106.777458
+20102541,SMK Al Hidayah 1 Jakarta,Jl. Bhakti No. 25,Cilandak Timur,Pasar Minggu,1,42,Oepik Damajanti,021 7819547,A,-6.307793,106.806503
+20102542,SMK Al Hidayah 2 Jakarta,Jl. Kesatuan No. 47,Srengseng Sawah,Jagakarsa,30,16,ANAS ABDUR RAHMAN NASIRUDIN ARFAD,021 7871622,B,-6.354795,106.822281
+20102544,SMK Borobudur 1 Jakarta,Jl. Raya Cilandak KKO,Cilandak Timur,Pasar Minggu,140,13,,021 7827253,A,-6.304821,106.810394
+20102545,SMK Borobudur 2 Jakarta,Jl. Raya Cilandak KKO,Cilandak Timur,Pasar Minggu,54,12,Drs. Najemudin,021 78227338,B,-6.306761,106.813126
+20102546,SMK Kahuripan 1,Jl. Nangka No. 17,Tanjung Barat,Jagakarsa,78,11,Drs Nirin,021 7810801,B,-6.302201,106.849716
+20102547,SMK Gita Kirti 1 Jakarta,Jl. BRI Radio Dalam,Gandaria Utara,Kebayoran Baru,459,31,,021 7231563,A,-6.258895,106.791794
+20102548,SMK Fatahillah,Jl. Ciputat Raya No. 5,Pondok Pinang,Kebayoran Lama,3,10,"Ady Nugroho, Drs , MM",021 7650979,B,-6.260975,106.775200
+20102550,SMK Dharma Karya,Jl. Melawai XII/207,Melawai,Kebayoran Baru,494,27,"TEDY HERDIANA, Ir. MM.",021 7398576,A,-6.247227,106.799911
+20102551,SMK Desa Putera,Jl. Desa Putera No.1,Srengseng Sawah,Jagakarsa,289,22,Drs Mateus Sumadiyono,"021 78886156,",A,-6.337388,106.828468
+20102552,SMK Darussalam Jakarta,Jl. M. Kahfi II No. 28,Srengseng Sawah,Jagakarsa,866,37,MELLY MALIHAH,021 7211535,A,-6.343495,106.817932
+20102553,SMK Daarul Uluum,Jl. Pedurenan Raya No. 53,Karet Kuningan,Setia Budi,380,24,Drs. Saifuddin.,021 57950676,A,-6.219875,106.827652
+20102557,SMK Bunda Kandung Jakarta,Jl. Palapa Raya No. 3,Pasar Minggu,Pasar Minggu,623,25,"Sutiadi, S.Kom",021 7805248,A,-6.289214,106.841660
+20102558,SMK Al Falah,Jl. Mampang Prapatan 1 No. 3,Mampang Prapatan,Mampang Prapatan,514,29,"Masruroh, S.Ag",021 7941291,A,-6.243651,106.825119
+20102559,SMK Budi Asih,Jl. Bukit Tinggi No. 3,Pasar Manggis,Setia Budi,236,21,,021 8305808,A,,
+20102560,SMK Al-Fajar Jakarta,Jl. Sultan Iskandar Muda No. 32,Kebayoran Lama Utara,Kebayoran Lama,218,28,"H. ABDURRAHMAN,LC",021 7237433,A,-6.244957,106.781975
+20102577,SMK 10 Nopember,Jl. H. Ilyas No. 27,Petukangan Utara,Pesanggrahan,60,12,"SRI WAHYUNI, S.Pd, MM",021 5858805,B,-6.230142,106.755844
+20102578,SMK Negeri 15,Jl. Mataram 1,Selong,Kebayoran Baru,607,37,"Dra. MURNI ASTUTI, M.M.",021 7243559,A,-6.232782,106.801544
+20102579,SMK Negeri 6,"Jl. Prof. Joko Sutono, SH. No. 2A",Melawai,Kebayoran Baru,795,51,RIANTO RITONGA,021 7208718,A,-6.239879,106.808228
+20102580,SMK Negeri 41,Jl. Margasatwa Komplek Timah,Pondok Labu,Cilandak,635,43,"Hj. Nurhasnah, SE, M.Pd",021 7512190,A,-6.301990,106.800446
+20102581,SMK Negeri 32,Jl. Tebet Dalam IV No. 1,Tebet Barat,Tebet,385,47,"Erni Mawarni, M.Pd",021 8290165,A,-6.229533,106.849503
+20102582,SMK Negeri 30,Jl. Pakubuwono No. 6,Gunung,Kebayoran Baru,374,32,"Dra.ESTA PINTA SIAGIAN, M.Hum",021 7221253,A,-6.230323,106.792061
+20102583,SMK 28 Oktober 1928-2,Jl. Mampang Prapatan XI,Tegal Parang,Mampang Prapatan,503,26,Rianto Ir.,021 7900079,B,-6.251227,106.825966
+20102584,SMK 28 Oktober 1928-1 Jakarta,Jl. Mampang Prapatan XI,Tegal Parang,Mampang Prapatan,108,21,Dra. Hj. Badriah,021 7947766,B,-6.251227,106.825966
+20102585,SMK Negeri 28,Jl. Maritim No. 26,Cilandak Barat,Cilandak,469,38,"Nanik Radmiasih, S.Pd",021 7692004,A,-6.285322,106.794899
+20102586,SMK Negeri 25,Jl. Raya Ragunan Pasar Minggu,Jati Padang,Pasar Minggu,515,34,Dra. TINI KARTINI,021 7805695,A,-6.277078,106.830658
+20102587,SMK Negeri 20,Jl. Melati No. 24,Cilandak Barat,Cilandak,517,43,"Dra. Endri Suryani, M.M.",021 7694223,A,-6.283653,106.793968
+20102589,SMK Negeri 18,Jln. Ciputat Raya Komp. Bank Mandiri,Pondok Pinang,Kebayoran Lama,405,40,Drs. RAMLI,021 7513729,A,-6.264713,106.772751
+20102590,SMK 17 Agustus 1945-2 Jakarta,Jl. Tebet Dalam III-A,Tebet Barat,Tebet,1,23,"Dra. SITI ROCHWATI, MM",021 8305784,A,-6.228575,106.849609
+20102593,SMK Purnama 3 Jakarta,Jl. Tirtayasa II/5,Melawai,Kebayoran Baru,44,14,"Dwijo Setiantoro, S. Pd.M.M.",021 7224317,B,-6.241577,106.805717
+20102594,SMK Pandawa Budi Luhur Jakarta,Jl. Komp. Hankam Cidodol No. 3,Grogol Selatan,Kebayoran Lama,494,31,"Sakiman Wiroutomo, SH.MM",021 7265557,A,-6.228085,106.776939
+20102597,SMK Negeri 8,Jl. Raya Pejaten,Pejaten Barat,Pasar Minggu,122,60,"Dra. Valentina Purnama Dewi, M.Si",021 7996493,A,-6.276566,106.838593
+20102598,SMK Negeri 57,Jl. Taman Margasatwa No. 38 B,Jati Padang,Pasar Minggu,1051,70,"Dra. Komariah, M.Pd",021 7805396,A,-6.191647,106.823563
+20102599,SMK Negeri 47,Jl. Condet Pejaten,Pejaten Barat,Pasar Minggu,658,49,"Wiji Kusrini, M.Pd",021 7995116,A,-6.277462,106.830765
+20102600,SMK Negeri 43,Jl. Cipulir 1,Cipulir,Kebayoran Lama,395,29,Drs. Edyson Jumaidi,021 7257532,A,-6.228617,106.765770
+20102601,SMK Negeri 37,Jl. Pertanian III,Pasar Minggu,Pasar Minggu,686,54,"Dra. Hj. ETY PURWANTY, M.Pd.",021 7805787,A,-6.290652,106.839653
+20102602,SMK Negeri 29,"Jl. Prof. Jokosutono, SH. No. 1",Petogogan,Kebayoran Baru,905,54,Drs. TIKNO SUBADI,021 7222471,A,-6.239831,106.807816
+20102604,SMK Muhammadiyah 7 Jakarta,Jl. Tebet Timur Raya No. 565,Tebet Timur,Tebet,247,23,"Anjun, S.Pd, MM",021 8351275,A,-6.234603,106.853279
+20102605,SMK Muhammadiyah 9,Jl. Panjang Cipulir,Cipulir,Kebayoran Lama,252,51,"Adi Ardiansyah, S. Kom",021 7266648,A,-6.234680,106.771820
+20102606,SMK Mitra Pembangunan,Jl. Benda No. 31 Pedurenan,Cilandak Timur,Pasar Minggu,118,21,"Ahmad Fuad Syibli, S. Pd.i",021 78848180,B,-6.279019,106.815773
+20102607,SMK Panca Sakti 1 Jakarta,Jl. Pinang I No.2,Cilandak Barat,Cilandak,83,13,"Lamhot Nababan,S.Pd",021 7504282,B,-6.297662,106.792236
+20102608,SMK Pasar Minggu Jakarta,Jl. Asem Pejaten Indah 2,Pasar Minggu,Pasar Minggu,145,4,Ludiono,021 7820641,B,-6.289022,106.839783
+20102610,SMK Purnama 2,JL. Margasatwa II,Pondok Labu,Cilandak,56,20,"Iskandar Zulkarnaen, S.Pd",021 7818936,B,-6.309367,106.795921
+20102611,SMK Purnama 1 Jakarta,Jl. Tirtayasa 2/5,Melawai,Kebayoran Baru,400,38,"Hayatin, S. Pd.",021 72792702,B,-6.241097,106.804581
+20102613,SMK Pondok Indah,Jl. Pupan No. 29,Pondok Pinang,Kebayoran Lama,15,8,SANTI PUTRI AGUSTINA,021 70623158,A,-6.275069,106.773460
+20102615,SMK PGRI 33,Jln. Guru Alif,Duren Tiga,Pancoran,78,4,Drs. Timbul Wahidin,021 79196445,B,-6.254369,106.837685
+20102617,SMK PGRI 23 Jakarta,Jl. Srengseng Sawah Jagakarsa,Srengseng Sawah,Jagakarsa,0,29,"Mansur M, S.Pd",021 7871843,B,-6.351888,106.819031
+20102618,SMK PGRI 14 Jakarta,Jl. Intan Ujung No. 19/20,Cilandak Barat,Cilandak,0,14,Drs. Sapari,021 75818550,B,-6.295087,106.804062
+20102619,SMK Perwira Jakarta,Jl. H. Dilun No. 4,Ulujami,Pesanggrahan,253,11,"Sarjana, S.Pd",021 7379886,B,-6.285247,106.818893
+20102620,SMK Perguruan Rakyat,Jl. Zikon No. 14,Srengseng Sawah,Jagakarsa,574,28,"Drs Siranto, MM",021 7867283,A,-6.344853,106.826241
+20102621,SMK Pembangungan Jaya (Yakapi),Jl. Palapa Raya 2,Pasar Minggu,Pasar Minggu,13,51,"Wahyu Firmansyah, S.Pd",021 78833969,A,-6.288893,106.842064
+20102623,SMK Miftahul Falah Jakarta,Jl. Almubarok 2,Cipulir,Kebayoran Lama,235,17,"Drs. H. Masrur, AM",021 7225634,B,-6.240084,106.769913
+20102626,SMK Jakarta Manajemen,Jl. Praja Dalam No. E/3,Kebayoran Lama Selatan,Kebayoran Lama,65,15,"Meida Meriana, SE",021 7200654,B,-6.252890,106.781944
+20102627,SMK Islam YPS Jakarta,Jl. Raya Lenteng Agung,Lenteng Agung,Jagakarsa,269,26,Dra. Sjamsiatin,021 7828370,A,-6.314813,106.837624
+20102628,SMK Islam YPIK Jakarta,Jl. Srengseng Sawah Sawah No.87,Srengseng Sawah,Jagakarsa,211,24,"MUNAWIR, S.Ag",021 7271710,A,,
+20102629,SMK Islam Wijaya Kusuma,Jl. Raya Lenteng Agung,Lenteng Agung,Jagakarsa,0,21,"Rafidin; Drs, MM",021 78892903,A,-6.333491,106.835678
+20102630,SMK Tri Mulia Jakarta,Jl. H. Adam Malik No. 1,Petukangan Selatan,Pesanggrahan,301,25,"Sugiyanto, S.Pd",021 7351526,B,-6.238087,106.747803
+20102633,SMK Islam Al-Ihsan Jakarta,Jl. Raya Pesanggrahan No. 1,Pesanggrahan,Pesanggrahan,91,12,RAHMAD AKMAL,021 98154874,B,-6.254809,106.756752
+20102634,SMK Islam Al Hikmah,Jl. Kemajuan No. 48-55,Petukangan Selatan,Pesanggrahan,0,30,,021 7340249,A,-6.239338,106.754044
+20102635,SMK Hidatha Jakarta,Jl. Cilandak Tengah III/53,Cilandak Barat,Cilandak,178,26,"Abdul Halim, SE",021 7693480,B,-6.288626,106.801933
+20102640,SMK Karya Guna Jakarta,Jl. Manggarai Utara 1,Manggarai,Tebet,241,39,"Drs. Sulaeman,MM",021 8291514,A,-6.213472,106.853348
+20102643,SMK Makarya 2 Jakarta,"Jl. Harun No. 13A, Tanah Kusir",Kebayoran Lama Selatan,Kebayoran Lama,347,13,"Eman Radiman, S.Sos, MM",021 7265118,A,-6.254256,106.778702
+20102644,SMK Makarya 1 Jakarta,Jl. Pondok Pinang Timur No. 4,Pondok Pinang,Kebayoran Lama,828,40,Kamiran,021 7654139,A,-6.261700,106.777397
+20102645,SMK LP 3 Istana,Jl. Margasatwa No. 12,Pondok Labu,Cilandak,126,23,"Drs. Subandri SE, M.MPd",021 7661485,B,-6.311885,106.793777
+20102647,SMK Lebak Bulus Jakarta,Jl. Pasar Jumat,Lebak Bulus,Cilandak,293,44,"Idham Palada, S. Pd",021 98104340,A,-6.290163,106.772865
+20102650,SMK Kharismawita 2,Jl. Swadaya II/30,Tanjung Barat,Jagakarsa,154,18,"Sri Wiyono, S.Pd, MM",021 7803040,A,-6.299451,106.845367
+20102651,SMK Kharismawita 1 Jakarta,Jl. Swadaya II/30,Tanjung Barat,Jagakarsa,0,21,"Syahroni, S,Ag",021 7803040,A,-6.297055,106.845139
+20102652,SMK Kemala Bhayangkari,Jl. Ampera Raya Komplek POLRI,Ragunan,Pasar Minggu,761,38,"HARTONO JOKO SANTOSO, SE",021 78844934,A,-6.283194,106.819923
+20102653,SMK Karya Teladan,Jl. Raya Pasar Minggu No. 65,Duren Tiga,Pancoran,1,24,"Saiful Anwar, S.Pd",021 7990952,B,-6.258136,106.843224
+20103242,SMK BPS&K 2 Jakarta,Jl. Bina Karya No. 2,Pondok Kopi,Duren Sawit,598,25,Drs. NIKOLAS KAESMETAN,021 8648268,A,-6.233615,106.938728
+20103243,SMK Al-Akhyar 1 Jakarta,Jl. Balai Rakyat Gempol 99,Cakung Timur,Cakung,255,23,"HERU HARDIANSYAH, S.Pd",021 46823717,A,-6.181857,106.958214
+20103244,SMK Al Wathoniyah Jakarta,Jl. Raya Bekasi Timur Km. 17,Jatinegara,Cakung,47,15,"SUWANTO, S Pd",021 46831207,B,-6.210122,106.903000
+20103245,SMK Al-Washliyah Jakarta,Jl. Al-Washliyah No. 14,Jati,Pulo Gadung,295,26,"SUTRISNO, S.H, S.Pd",021 4721231,A,-6.192300,106.897850
+20103246,SMK Al-Wahyu Jakarta,Jl. Madrasah No. 24,Cibubur,Ciracas,191,31,"TRIWAHJONO,S.E.",021 8734045 Ext. 203,B,-6.174400,106.829399
+20103247,SMK Al Fathiyah Jakarta,Jl. Manunggal 13 No. 28,Balekambang,Kramat Jati,62,12,"Tri Astuti, S.Pd",021 80873389,B,-6.278825,106.853348
+20103249,SMK Adi Luhur 2 Jakarta,Jl. Raya Condet No. 4,Balekambang,Kramat Jati,144,18,"Dedi Haryanto, S.Komp",021 8400108,A,-6.291838,106.855553
+20103259,SMK Al-Akhyar 2 Jakarta,Jl. Kayu Tinggi No. 25,Cakung Timur,Cakung,313,25,MASYHUDI AMUGNI H. S. PD,021 4601518,B,-6.181913,106.945290
+20103262,SMK BPS&K 1 Jakarta,Jl. Bina Karya No. 2,Pondok Kopi,Duren Sawit,356,21,NIKOLAS KAESMETAN,021 8648268,A,-6.233465,106.938728
+20103263,SMK Bisnis Indonesia Jakarta,Jl. Irigasi Raya (Menteng Metropolitan),Ujung Menteng,Cakung,327,35,"SYAMSUL MA'ARIF, S.Pd.I",021 46834104,A,-6.187967,106.970238
+20103265,SMK Bina Pembangunan I,Jl. Kayu Putih Selatan IV No. 44,Pulo Gadung,Pulo Gadung,84,13,NURHASAN HIDAYAT. SH,021 4702658,B,-6.187259,106.892967
+20103266,SMK Bina Manajemen,Jl. Dr. KRT. Radjiman Widyodiningrat,Rawa Terate,Cakung,101,13,"SUYOTO, S.PD",021 4609495,B,-6.190310,106.923019
+20103267,SMK Bina Dharma,Jl. Raya Ciracas No. 39,Ciracas,Ciracas,379,17,"HERRY IRWANTO,S.Pd",021 87721538,A,-6.327555,106.884720
+20103269,SMK Bhakti - 2 Jakarta,Jl. Perindustrian No. 7,Kebon Pala,Makasar,89,13,Wardianah,021 8091357,A,-6.250330,106.876587
+20103270,SMK Bhakti - 1 Jakarta,Jl. Perindustrian No. 7,Kebon Pala,Makasar,195,18,"Olerman Sihotang, S.Si.",021 8091357,A,-6.250310,106.876617
+20103271,SMK Berlian Jakarta,Jl. Berlian No. 9A,Bidara Cina,Jatinegara,90,18,A.Zakaria,021 8511112,B,-6.241777,106.862869
+20103272,SMK As Saadah,Jl.Swakarsa IB No.40,Pondok Kelapa,Duren Sawit,260,25,ABDUL AZIS . S.Sos,021 8640025,B,-6.247973,106.914398
+20103273,SMK Angkasa 2 Jakarta,Jl. Rajawali Raya,Halim Perdana Kusumah,Makasar,143,20,"Raden Sidabutar, SH",021 8002202,A,-6.251830,106.890030
+20103274,SMK Angkasa 1 Jakarta,Jl. Rajawali Raya,Halim Perdana Kusumah,Makasar,154,36,"Sumardjo , Sh. M.H. M.M",021 8019249,A,-6.251996,106.889954
+20103276,SMK Analis Kesehatan Tunas Harapan,Jl. Bendera Raya - Intisari 3,Kalisari,Pasar Rebo,350,39,"DRS. ENDANG SUKIRMAN, M.PD",021 8720108,A,-6.331491,106.858711
+20103500,SMK YPIA Al-Falah Jakarta,Jl. Raya Bekasi Km. 26 Ujung Menteng Cakung Jaktim,Ujung Menteng,Cakung,29,17,,021 22461883,B,-6.222601,106.896324
+20103501,SMK YP IPPI Jakarta,Jl. Raya Penggilingan Komplek Aneka Elok Blok G,Penggilingan,Cakung,725,23,"ENDAH WIDYASTUTI, S.Pd",021 48703207,A,-6.199382,106.941177
+20103502,SMK YP Darul Mukminin Jakarta,Jl. Matraman Raya No. 177,Bali Mester,Jatinegara,351,18,Drs.Agus Cik,021 8503933,B,-6.204335,106.857498
+20103504,SMK Yamas Jakarta,Jl. Pusdiklat Depnaker,Makasar,Makasar,138,11,"Sukino, SE",021 8097955,A,-6.280484,106.878487
+20103505,SMK Bhakti 3,Jl. Kalimalang No.40A,Pondok Bambu,Duren Sawit,81,16,Drs. NURDIN,021 8600031,Tidak Terakreditasi,-6.247628,106.917404
+20103525,SMK Widya Manggala Jakarta,Jl. Mujahidin No. 17,Rambutan,Ciracas,238,18,Drs. E. SARAGI,021 8411414,B,-6.295165,106.871162
+20103526,SMK Wawasan Nusantara Jakarta,Jl. Raya Penggilingan No. 50,Cakung Barat,Cakung,77,17,"Dra. Hj. Andartari, M.Pd. M.Ak",021 46831435,B,-6.210471,106.938461
+20103527,SMK Satya Bhakti II,Jl. Slamet Riyadi III,Kebon Manggis,Matraman,525,35,"Drs.SUCIPTO P.BBA. M,Si",021 85907078,A,-6.210469,106.854507
+20103528,SMK Satya Bhakti I,Jl. Slamet Riyadi III,Kebon Manggis,Matraman,0,40,Drs.Sugito,021 85912113,A,-6.210144,106.854950
+20103530,SMK Santa Lucia,Jl. Rawamangun Muka Barat 2,Rawamangun,Pulo Gadung,7,15,R. Wirachmo S.T Kat,021 4757825,B,-6.193579,106.882950
+20103531,SMK Sahid Jakarta,Jl. Haji Baping Kav 42-43,Susukan,Ciracas,267,40,"SISCA TRI DAMARIANINGRUM,S.Pd,",021 87790142,A,-6.315147,106.873672
+20103533,SMK Ristek KIKIN,Jl. Raya Penggilingan,Penggilingan,Cakung,864,30,"MURSIDI . S Pd, MM",021 4604823,A,-6.199291,106.935318
+20103534,SMK Ristek JAYA,Jl. Raya Bekasi Km. 26 No. 50,Ujung Menteng,Cakung,321,32,,021 4600972,A,-6.185430,106.962059
+20103535,SMK Respati II,Jl. Inpres,Kampung Tengah,Kramat Jati,141,15,Drs. Sarto,021 80872279,B,-6.286463,106.870720
+20103536,SMK Respati I,Jl. Inpres,Kampung Tengah,Kramat Jati,94,19,"Dra. Suparmi, MKes.",021 8093086,B,-6.286506,106.870705
+20103537,SMK Rahayu Mulyo,Jl. Raya Bogor,Batu Ampar,Kramat Jati,1,34,"DR. Mulyono SE, MM.",021 80889246,A,-6.285885,106.871353
+20103538,SMK Pusaka 1 Jakarta,Jl. Taruna Pahlawan Revolusi No. 89,Pondok Bambu,Duren Sawit,698,35,"Susiana, S.Pd",021 8613067,A,-6.238872,106.895790
+20103540,SMK PKP 2 Jakarta,Jl. Raya PKP,Kelapa Dua Wetan,Ciracas,318,30,Drs. Widodo,021 8700113,A,-6.339055,106.883331
+20103541,SMK PKP 1,Jl. Raya PKP,Kelapa Dua Wetan,Ciracas,194,23,Drs. Dadang Ependi,021 8728367,A,-6.339065,106.883354
+20103542,SMK PGRI 8 Jakarta,Jl. Cipinang Muara I,Pondok Bambu,Duren Sawit,116,12,Dra. SRI RAHAYU,021 86610019,B,-6.212483,106.872505
+20103543,SMK Sebelas Maret,Jl. Raya Bekasi Km. 20 / Jl. Bhakti ABRI,Pegangsaan Dua,Kelapa Gading,396,33,"H. TOTOK SUTIARJO , S Pd",021 4601107,B,-6.181304,106.918152
+20103545,SMK Sriwijaya Jakarta,"Jl. Dr. KRT. Radjiman Widyodiningrat , Pengarengan",Jatinegara,Cakung,151,20,"H ARIF RAHMAN. S.Ag, MM",021 4611720,B,-6.197899,106.922005
+20103546,SMK Uswatun Hasanah,Jl. Raya Depnaker No. 2,Pinang Ranti,Makasar,106,19,"Amelia, M. Si",021 8001152,A,-6.284629,106.882034
+20103547,SMK Tunas Markatin,Jl. Waru No. 20 B,Rawamangun,Pulo Gadung,156,21,Abdul Haris,021 4707917,B,-6.196035,106.888191
+20103548,SMK Tridaya Jakarta,Jl. Pangkalan Jati II No. 19,Cipinang Melayu,Makasar,130,17,"Syarif Hidayat,SE",021 86600005,A,-6.249704,106.905975
+20103550,SMK Tri Sastra 2 Jakarta,Jl. SMPN 157,Lubang Buaya,Cipayung,0,12,Drs. Mashudi,021 8406568,B,-6.293455,106.903313
+20103552,SMK Trampil,Jl. Olah Raga 2,Cililitan,Kramat Jati,195,13,H. MUHAMMAD TOHIR,021 8003323,B,-6.267500,106.861504
+20103553,SMK Tirta Sari Surya,Jl. Nanas I Utan Kayu Utara,Utan Kayu Utara,Matraman,240,26,Dra. HJ.VISIA SULISTYANI,021 8576111,A,-6.174450,106.829399
+20103556,SMK Teratai Putih Jakarta,Jl. Nusa Indah IVA Perumnas Klender,Malaka Jaya,Duren Sawit,0,29,Drs. Slamet,021 86603780,A,-6.220755,106.936607
+20103558,SMK Tadika Puri Jakarta,Jl. Malaka I/207,Malaka Sari,Duren Sawit,41,15,MOCHAMMAD BUDIHARJO. S.Sos,021 8601663,B,-6.221979,106.928886
+20103561,SMK Fransiskus 1 Jakarta,Jl. Bangunan Barat No. 29,Kayu Putih,Pulo Gadung,102,14,"Damasus Lekan Udjan OFM, S.Pd",021 4759869,A,-6.184722,106.880478
+20103562,SMK St. Bonaventura Jakarta,Jl. Amal No. 2,Pondok Bambu,Duren Sawit,0,3,"PANDANG SILALAHI. Drs,MM",021 8624971,B,-6.226219,106.899261
+20103640,SMK PGRI 28 Jakarta,Jl. Condet Raya,Gedong,Pasar Rebo,443,41,Drs.H.Iip Abdul Arief. S,021 8414029,A,-6.294945,106.855728
+20103642,SMK IPTEK Jakarta,Jl. Raya Pulo Gebang No 99,Pulo Gebang,Cakung,439,54,"Nurmayanti, SE.i",021 4808048,A,,
+20103643,SMK Insan Teknologi Jakarta,Jl. Cibubur IV No. 29,Cibubur,Ciracas,97,21,"HENDRA GUNAWAN,SS",021 8705657,A,-6.392050,106.880028
+20103645,SMK Imtaq Darurrahim,"Jl. TiparCakung, Gang Pelajar",Cakung Barat,Cakung,151,11,H. ABUL A`LA ALMAUDUDI . SHI,021 44831013,B,-6.173725,106.936562
+20103647,SMK Hatawana Jakarta,Jl. Cipinang Besar Selatan No. 1,Cipinang Besar Selatan,Jatinegara,104,19,"Simon Pattiruhu,Ir",021 8191149,B,-6.231550,106.882782
+20103649,SMK Harapan 1 Jakarta,Jl. I Gusti Ngurah Rai,Penggilingan,Cakung,0,11,Drs. H. EKO MARTONO R,021 4611539,B,-6.213291,106.908096
+20103652,SMK Gutama Jakarta,Jl. Permata No. 17,Kebon Pala,Makasar,178,24,"E. Iskandar, S.Pd",021 8091447,B,-6.250899,106.880272
+20103655,SMK Fensensius Jakarta,Jl. Taman. Pulo Asem Utara 60,Pulo Gadung,Pulo Gadung,88,15,"Erlina VF Ratu, S.Si.",021 47864243,B,-6.190844,106.893768
+20103656,SMK Era Pembangunan Umat Jakarta,Jl. Usman No. 71,Ciracas,Ciracas,81,20,"ACIH NASIR,S.Ag",021 8715500,B,-6.332435,106.883545
+20103657,SMK Eka Paksi Jakarta,Jl. Mualim Aminudin,Cibubur,Ciracas,35,9,"ARNAH FAJARWATI,SE",021 87756832,B,-6.367805,106.884499
+20103658,SMK Islam Malahayati Jakarta,Jl. Bima No. 3,Cijantung,Pasar Rebo,723,41,Drs. Suparmin,021 8701744,A,-6.325139,106.859833
+20103659,SMK Islam PB Soedirman 1 Jakarta,Jl. Raya Bogor Km. 24,Cijantung,Pasar Rebo,535,43,"SUKARDI, M.Pd","021 8400387 Ext. 126, 127",A,-6.315730,106.861183
+20103660,SMK Islam PB Soedirman 2 Jakarta,Jl. Raya Bogor Km. 24 Cijantung,Cijantung,Pasar Rebo,470,32,"Dra. Hj. Ikah Atikah,MM",021 8400387,A,-6.312995,106.861778
+20103663,SMK KAPIN,Jl. Raya Kalimalang,Pondok Kelapa,Duren Sawit,366,29,Yati Kurniati SPd,021 8648457,A,-6.248741,106.929802
+20103664,SMK Kalpataru,Jl. Raya Tipar Cakung,Cakung Barat,Cakung,46,11,HJ.HAMIDAH.S.Ag,021 46822852,A,-6.180235,106.935486
+20103667,SMK Jayawisata 2 Jakarta,Jl. Pangkalan Jati II No. 19,Cipinang Melayu,Makasar,215,25,"Augusta Oppier, S.Pd","021 86600005, 021 86600004",A,-6.145712,106.542702
+20103668,SMK Jayakarta,Jl. Bunga Rampai XI/1 No. 47,Malaka Jaya,Duren Sawit,71,11,"MICHAEL TUE, SE",021 8606936,B,-6.252219,106.935219
+20103671,SMK Jakarta Timur 2,Jl. Cempaka VI Kayu Tinggi Nomor 7C,Cakung Timur,Cakung,641,29,,"021 4608050, 021 98219157",A,-6.177513,106.942871
+20103672,SMK Jakarta Timur 1,Jl. Cawang Baru No. 543,Cipinang Cempedak,Jatinegara,949,26,"Drs. H. Hamzah Ichwani, M.pd.",021 85905665,B,-6.242597,106.870476
+20103674,SMK Jakarta Raya 2,Jl. Raya Pondok Gede No. 36,Lubang Buaya,Cipayung,80,18,"Sukardi, SE",021 87780464,B,-6.288355,106.899300
+20103675,SMK Jakarta Raya 1,Jl. Raya Pondok Gede No. 36,Lubang Buaya,Cipayung,112,20,"H. M. Lili Su'udi, SE",021 8406426,B,-6.288189,106.899864
+20103676,SMK Jakarta 1,Jl. Raya Pondok Kopi No. 75,Pondok Kopi,Duren Sawit,517,34,"H SURYANTO. Y .MM, Drs",021 8602231,A,-6.227030,106.942795
+20103677,SMK Islam Yasmin Jakarta,Jl. Raya Bogor Km. 27,Pekayon,Pasar Rebo,25,13,MUSLIM AULIA,021 29842441,B,-6.339899,106.869797
+20103682,SMK Budi Murni 5 Jakarta,Jl. Budi Murni no. 10,Cilangkap,Cipayung,44,11,,021 22813291,B,-6.332086,106.902611
+20103683,SMK Budi Murni 4 Jakarta,Jl. Budi Murni No. 10,Cipayung,Cipayung,169,23,,021 22813291,A,-6.339900,106.901611
+20103684,SMK Budi Murni 3 Jakarta,Jl. Sawah Barat,Duren Sawit,Duren Sawit,222,14,,021 8620103,A,-6.230825,106.910210
+20103686,SMK Budi Murni 1 Jakarta,Jl. Sawah Barat,Duren Sawit,Duren Sawit,373,16,Ir. CHARLES SITORUS,021 8629801,B,-6.230835,106.910141
+20103687,SMK Budi Mulia Utama,Jl. Rawa Jaya No. 35,Pondok Kopi,Duren Sawit,403,36,UMI RAHAYU. S P.d,021 8646316,A,-6.235564,106.943604
+20103691,SMK Budhi Warman 2 Jakarta,Jl. Raya Bogor Km. 28,Pekayon,Pasar Rebo,380,40,"Pardi Supardi, S.S., M.Pd.",021 8711833,A,-6.340857,106.865128
+20103692,SMK Budhi Warman 1 Jakarta,Jl. Raya Bogor Km. 19,Kramat Jati,Kramat Jati,696,36,,021 8096069,A,-6.279532,106.872940
+20103694,SMK Budhaya 2 St. Agustinus,Jl.Raya Radin Inten II Buaran,Cipinang,Pulo Gadung,64,20,"St. Suharsono, S.Pd.",021 86187888,B,-6.211365,106.885994
+20103696,SMK Budaya Jakarta,Jl. Dermaga Baru No. 48,Klender,Duren Sawit,232,21,SUKURYANTO. S.Pd,021 86607252,A,-6.220563,106.905670
+20103698,SMK Cagar Budaya 1 Jakarta,Jl. Raya Hankam TMII. Gempol No.47,Bambu Apus,Cipayung,83,22,"Asep Tatang Suryana, SE, MMPd",021 8444877,B,-6.307815,106.895348
+20103700,SMK Diponegoro 2,Jl. Kayu Tinggi,Cakung Timur,Cakung,101,13,,021 46831041,B,-6.169572,106.949539
+20103701,SMK Diponegoro 1 Jakarta,Jl. Sunan Giri 5,Rawamangun,Pulo Gadung,213,41,Sadikin Kartasasmita,021 4702446,A,-6.195402,106.883232
+20103702,SMK Dinamika Pembangunan 2 Jakarta,Jl. Raya Penggilian No. 99,Penggilingan,Cakung,1286,44,"SAMAN, SE",021 4616390,A,-6.191486,106.937263
+20103703,SMK Dinamika Pembangunan 1 Jakarta,Jl. Raya Penggilingan No. 99,Penggilingan,Cakung,1666,94,"MULYANA, SH.,MM.",021 4605887,A,-6.189863,106.937294
+20103704,SMK Dharma Surya,Jl. Pangkalan Jati IV No. 47,Cipinang Melayu,Makasar,67,15,"Ir. Samsuwardi D.Husen, MM",021 86602677,B,-6.250802,106.907921
+20103706,SMK Corpatarin 2 Jakarta,Jl. Pondok Kopi Raya No. 87,Pondok Kopi,Duren Sawit,107,13,Drs. EDWARD A. HUTASOIT,021 86606986,A,-6.229509,106.954185
+20103707,SMK Corpatarin 01,Jl. Raya Pondok Kopi,Pondok Kopi,Duren Sawit,153,8,,021 8632954,A,-6.229509,106.954185
+20103708,SMK Citra Dharma Jakarta,Jl. Swadaya I,Bambu Apus,Cipayung,52,12,"WA ODE SAELE, S.Pd",021 8458112,C,-6.317645,106.900955
+20103709,SMK Cipta Karya,Jl. Kayu Manis Timur No. 52D,Kayu Manis,Matraman,227,27,"NURLAILA, S.Pd.",021 8575038,B,-6.200942,106.862762
+20103711,SMK Cikra 1 Jakarta,Jl. Cipinang Kebembem V/32,Pisangan Timur,Pulo Gadung,150,20,"Endang Soeprihati,S.Pd",021 4753282,B,-6.210210,106.883560
+20103712,SMK Cawang Jakarta,Jl. Cawang Baru No. 71,Cipinang Cempedak,Jatinegara,0,17,"H. MAMAN TASMAN, MM",021 8569956,B,-6.242434,106.871544
+20103715,SMK Cahaya Sakti Jakarta,Jl. Otista 1 No. 11,Bali Mester,Jatinegara,189,26,Dra. Effy Kusumastuti,021 8196412,A,-6.225280,106.868614
+20103717,SMK Karya Wijaya Kusuma,Jl. Mujahidin No. 17A Tanah Merdeka,Rambutan,Ciracas,208,24,,"021 8416056, 021 87794344",B,-6.302979,106.872536
+20103720,SMK Pelayaran Dewaruci,Jl. Raya Bekasi Km. 26,Ujung Menteng,Cakung,87,13,"RUSTAMAJI, Drs",021 46820670,A,-6.185558,106.963135
+20103721,SMK Pelayaran Bima Sakti,Jl. Cipinang Besar No. 2 Jatinegara,Cipinang Cempedak,Jatinegara,113,18,"Siti Sulistianah, ANT III",021 8578599,B,-6.225727,106.876663
+20103724,SMK Adi Luhur 1 (Pariwisata),Jl. Raya Condet No. 4,Balekambang,Kramat Jati,142,22,"Drs. Junaedi, MM.",021 87784043,A,-6.291838,106.855553
+20103725,SMK Paramitha,Jl. Raya Kalimalang,Pondok Kelapa,Duren Sawit,423,50,"EKSA SARI WANI,SE,M.Pd.",021 8650377,A,-6.199455,106.955193
+20103726,SMK Pangudi Rahayu II Jakarta,"Jl. Raya Bogor Km. 24,5",Cijantung,Pasar Rebo,69,15,"T. SUHARSONO, SE",021 8401823,B,-6.319772,106.863808
+20103727,SMK Pangudi Rahayu I Jakarta,"Jl. Raya Bogor Km. 24,5",Cijantung,Pasar Rebo,181,17,"Harliyana Chalik, S.Pd.",021 8401494,A,-6.320048,106.864082
+20103728,SMK Pandawa Jakarta,Jl. Raya Cipinang Muara No. 12,Cipinang Muara,Jatinegara,302,21,"Joko Waskito Wibowo, Drs",021 8500761,A,-6.222772,106.896408
+20103730,SMK PAMI Jaya,Jl. Raya Kalimalang No. 29,Pondok Kopi,Duren Sawit,52,14,"PARTOGI SIANTURI, SE,MM",021 8646683,B,-6.248644,106.924690
+20103731,SMK Otomindo,Jl. Rawa Bola No. 49,Kelapa Dua Wetan,Ciracas,585,56,"NATALIA BUTARBUTAR, S.KOM",021 8719694,A,-6.349627,106.887558
+20103733,SMK Nurul Islam Jakarta,Jl. Mawar Merah Raya No.1,Malaka Jaya,Duren Sawit,344,29,"Drs. Mahfudh, MM",021 86613750,A,-6.220020,106.938004
+20103734,SMK Nurul Iman,Jl. Pisangan Timur No. 4A,Pisangan Baru,Matraman,298,23,"Drs. Ero Rohada, MM.",021 8506347,A,-6.214003,106.873520
+20103735,SMK Pelayaran Pembangunan Jakarta,Jl. Manunggal II No. 67,Rambutan,Ciracas,166,26,"JENAL,S.Pi",021 8412557,A,-6.309066,106.879547
+20103736,SMK Pelayaran Santa Lusiana,Jl. Dewi Sartika Gang Masjid Bendungan,Cawang,Kramat Jati,68,17,"Untung Suparjo, S.Pd",021 8006225,B,-6.255070,106.864899
+20103737,SMK Pelita Tiga No. 1 Jakarta,Jl. Rawajaya I,Pisangan Timur,Pulo Gadung,91,21,"Nurbaiti Kahpi, S.Pd",021 4758953,A,-6.121500,106.522697
+20103738,SMK PGRI 20 Jakarta,Jl. H. Abdurahman No. 54,Cibubur,Ciracas,981,54,"CICUK PUJO HARYANTO,S.Pd","021 87754525, 021 87713123",A,-6.365119,106.885292
+20103742,SMK PGRI 16 Jakarta,Jl. SMAN 64,Cipayung,Cipayung,481,26,"GUMIRLANG SONI NUGRAHA, S.E.,S.Pd.",021 8441534,A,-6.330263,106.890732
+20103743,SMK PGRI 1 Jakarta,Jl. PLK 2 No. 25,Makasar,Makasar,1003,49,Drs. Sunar,021 8009773,A,-6.266702,106.875259
+20103745,SMK Petri Jaya,Jl. Curug Raya 7,Duren Sawit,Duren Sawit,188,15,"NURAINIH, S.SOS",021 8652677,B,-6.249525,106.929573
+20103746,SMK Pertiwi Jakarta,Jl. H. Taiman Barat,Gedong,Pasar Rebo,224,21,"Misdi, S.Pd",021 87791284,A,-6.296335,106.865685
+20103749,SMK Perdana Kusuma,Jl. Halim Perdana Kusuma,Kebon Pala,Makasar,59,11,,021 8094888,B,-6.249938,106.249939
+20103751,SMK Perbankan Nasional Jakarta,Jl. Raya Bekasi Km. 26,Ujung Menteng,Cakung,740,43,"Drs. H. MATASIK, M.MPd",021 92711322,A,-6.185051,106.962906
+20103752,SMK Pemuda,Jl. Skip Ujung,Utan Kayu Selatan,Matraman,83,14,"H. TJAHYONO HADI, SE",021 8564925,B,-6.208414,106.871735
+20103753,SMK Pembangunan,Jl. Pengayoman III No. 95,Utan Kayu Utara,Matraman,174,17,Drs. Dahman,021 85912855,B,-6.194037,106.867264
+20103754,SMK Nurul Huda,Jl. Tipar Cakung KM.01,Cakung Barat,Cakung,86,16,DRA.HJ. SUSILOWATI,021 4606364,B,-6.176801,106.935745
+20103756,SMK Mercusuar,Jl. Raya Bks Km.26 No.51,Ujung Menteng,Cakung,19,34,"DRS. H. O. FARUROJI,MM",021 46820670,A,-6.185360,106.963020
+20103758,SMK Mardi Bakti Jakarta,Jl. Raya Bogor Km. 24,Cijantung,Pasar Rebo,141,17,"BUDIONO BINTORO, SPD",021 8413565,B,-6.318167,106.863960
+20103759,SMK Mardhika,Jl. Raya Condet No.63,Cililitan,Kramat Jati,139,17,"M.S. ALI, S.Sos",021 8092157,B,-6.279397,106.856049
+20103760,SMK Malaka Jakarta,Jl. Raya Mawar Merah No. 23,Pondok Kopi,Duren Sawit,1010,57,"HERU WULANDONO, S.Si",021 8611849,A,-6.131736,106.562073
+20103761,SMK Mahadhika 3,Jl.Manunggal II,Ciracas,Ciracas,184,22,"ABDUL ROCHIM,S.Ag",021 87782883,A,-6.308300,106.879402
+20103763,SMK Mahadhika 2,Jl. Penggilingan Baru I No.39,Dukuh,Kramat Jati,235,25,"Agus Setiawan, S.Pd",021 8414164,A,-6.302659,106.878685
+20103764,SMK Mahadhika 1,Jl.Raya Centex No. 29-31,Ciracas,Ciracas,683,32,"H.AGUS SUYANI,S.Ag,M.MPd",021 87707179,A,-6.314936,106.870346
+20103765,SMK L'Pina Jakarta,Jl. Raya Bekasi Timur Km. 14.8 No. 5,Jatinegara Kaum,Pulo Gadung,146,8,"Faris Riadh, S.Pd",021 4750478,A,-6.212471,106.898911
+20103767,SMK KRAMAT JATI,Jl.Dukuh V No.1A,Dukuh,Kramat Jati,18,7,SAMIUN,021 91996738,B,,
+20103768,SMK Kimia Tunas Harapan,Jl. Bendera Raya / Intisari III No.17,Kalisari,Pasar Rebo,211,22,"Sahroni, M.Si",021 8728766,A,-6.330335,106.858643
+20103769,SMK Caraka Nusantara,Kompleks Pulo Gebang Permai Blok H 4 No. 10,Pulo Gebang,Cakung,412,39,"HENDRA NANTO WIDJAJA, Drs.,Apt",021 48700766,A,-6.197235,106.949501
+20103770,SMK Kemala Bhayangkari 1 Jakarta,Jl. Raya Bekasi Timur,Cipinang,Pulo Gadung,792,38,"Drs. H. Bambang Suprijanto, MM",021 4753578,A,-6.209718,106.894241
+20103772,SMK Mitra Kencana,Jl. Mawar Merah Raya No. 1,Malaka Jaya,Duren Sawit,407,27,Drs. Achmad Syukri,021 8602060,B,-6.220020,106.938004
+20103774,SMK Muara Indonesia Jakarta,Jl. Cipinang Muara III Kav PLN,Cipinang Muara,Jatinegara,643,26,Aryati W. S.Pd,021 8500965,A,-6.220703,106.892738
+20103775,SMK Nasional Alfan,Jl. Dukuh V No.1A,Dukuh,Kramat Jati,47,11,"Salmah, SE. MM.",021 8403086,C,-6.293100,106.876999
+20103776,SMK Nasional,Jl. SMEA 6 No. 53,Cawang,Kramat Jati,11,8,Dra. Upit Andreini,021 8091771,C,-6.255340,106.870430
+20103778,SMK Negeri 7,Jl. Tenggiri No. 1,Jati,Pulo Gadung,740,48,"ADIP WIRATMONO,S.Pd,M.A",021 4711564,A,-6.198171,106.891769
+20103779,SMK Negeri 58,Jl. SMIK Bambu Apus,Bambu Apus,Cipayung,1107,74,"Sajid, M.Pd","021 8442072, 021 8446304",A,-6.319375,106.898712
+20103780,SMK Negeri 52,Jl. Taruna Jaya,Cibubur,Ciracas,758,54,"DIDING WAHYUDIN, S.Pd, M.Si",021 8732519,A,-6.364700,106.885597
+20103781,SMK Negeri 51,Jl. SMEA 33 - SMIK,Bambu Apus,Cipayung,731,45,TRI ERIYANI,021 8444903,A,-6.319713,106.898933
+20103782,SMK Negeri 50,Jl. Cipinang Muara No. 1,Cipinang Muara,Jatinegara,545,41,DRS. WANTARIP,021 8194466,A,-6.227743,106.890976
+20103783,SMK Negeri 5,Jl. Pisangan Timur VII,Pisangan Baru,Matraman,1006,87,"AHMAD YANI, S.Pd",021 8507824,A,-6.212661,106.873154
+20103784,SMK Negeri 48,Jl. Raden Inten II No. 3,Klender,Duren Sawit,819,46,"Yayah Nur Aliyah, S.Pd.",021 8617467,A,-6.219000,106.924004
+20103785,SMK Negeri 46,Jl. B7 Cipinang Pulo No.24,Cipinang Besar Utara,Jatinegara,490,40,"Dra. Suryani, M.A",021 8195127,A,-6.224521,106.888680
+20103786,SMK Negeri 40,Jl. Nanas II Utan Kayu Utara,Utan Kayu Selatan,Matraman,507,38,"Yulianto, S.Pd, M.Si",021 8563329,A,-6.185953,106.867737
+20103787,SMK Negeri 26,Jl. Balai Pustaka Baru 1,Rawamangun,Pulo Gadung,1460,105,"Purwosusilo, M.Pd.",021 4720310,A,-6.194550,106.886497
+20103788,SMK Negeri 24,Jl. Bambu Hitam,Bambu Apus,Cipayung,473,46,"Oom Siti Halimah, S.Pd., MM.",021 8441976,A,-6.310862,106.900352
+20103790,SMK Negeri 22,Jl. Raya Condet,Gedong,Pasar Rebo,745,46,"Drs. Uju Juhiwa, M.Pd",021 8400901,A,-6.286975,106.857437
+20103791,SMK Negeri 10,Jl. SMEA 6 Mayjend Sutoyo,Cawang,Kramat Jati,713,44,Dra. Trisnawati,021 8091773,A,-6.252052,106.872841
+20103792,SMK Muhammadiyah 6,Jl. KH. Ahmad Dahlan No. 20,Kayu Manis,Matraman,237,23,"Suwarto, S.Ag. M.Pd",021 8508015,A,-6.208844,106.862930
+20103793,SMK Kawula Indonesia Jakarta,Jl. Raya SMA Kapin No. 3,Pondok Kelapa,Duren Sawit,388,32,"SUWARDI, Drs.",021 8656328,A,-6.249124,106.929428
+20104453,SMK Candra Naya,Jl. Jembatan Besi II / 26,Jembatan Besi,Tambora,135,24,"Rosalina Hutahaean,M.Farm,Apt",021 63860752,A,-6.150765,106.797798
+20104454,SMK Cinta Kasih Tzu Chi,Jl. Kamal Raya No. 20 Outer Ringroad,Cengkareng Timur,Cengkareng,274,22,"Betty Theresia S, S.E",021 54397565,A,-6.131775,106.737862
+20104455,SMK Era Pembangunan,Jl. Gaga Alas Tua No.122,Semanan,Kalideres,415,16,NURUL HIDAYATI,021 98286849,A,-6.158854,106.710266
+20104458,SMK Kristen Cendrawasih,"Jl. Cendrawasih Raya No. 60 Cengkareng, Cengkareng",Cengkareng Barat,Cengkareng,126,11,"Sumadireja, S. Pd",021 6191116,B,-6.143975,106.723732
+20104462,SMK Telkom Sandhy Putra Jakarta,Jl. Daan Mogot Km. 11,Kedaung Kaliangke,Cengkareng,1102,52,"PUTUT PURWANTO, SMB",021 5442600,A,-6.154091,106.750916
+20106934,SMK BKUI (Al Kautsar),Jl. Jembatan Selatan No. 6,Pulo,Kebayoran Baru,183,21,Nur Azizah,021 7229789,A,-6.252627,106.795502
+20107016,SMK Trisula Perwari 1,Jl. Pariaman No. 17,Setia Budi,Setia Budi,0,8,"KHUSNUL K INDRI HASTUTI, SH",021 8307445,Tidak Terakreditasi,-6.208330,106.843666
+20107204,SMK Bina Karya Utama Jakarta,Jl. Raya Bekasi Km. 26,Ujung Menteng,Cakung,123,26,Drs. H. ROJALI,021 4607411,B,-6.174400,106.829399
+20107206,SMK Citra Mandiri,Jl. Pahlawan Komaruddin Ujung Krawang,Pulo Gebang,Cakung,139,21,"Drs. H. AJUDDIN, HS",021 4806720,A,-6.202059,106.933876
+20107207,SMK Dharma Paramitha,Jl. Sultan Hamengkubuwono IX,Ujung Menteng,Cakung,552,28,"MM. SRI WENING WULANDARI, S.Pd",021 46829045,B,-6.190533,106.964996
+20107209,SMK Garuda,Jl. Raya Bekasi,Jatinegara Kaum,Pulo Gadung,28,10,"Aris Rishandi, S.Pd",021 4754431,B,-6.211804,106.900978
+20107210,SMK Gema Nusantara,JL. DUA SEMBILAN NO.18,Duren Sawit,Duren Sawit,49,12,PARJIYONO. SE,021 98347147,B,-6.242904,106.916649
+20107215,SMK Paskita Global Jakarta,Jln. Raya Bogor Km. 25,Cijantung,Pasar Rebo,530,46,"Sarma Doris Siahaan, S.Pd",021 87701633,A,-6.323542,106.862450
+20107252,SMK Bunda Mulia 1,Jl. AM. Sangaji No. 20 Jakarta Pusat,Petojo Utara,Gambir,475,40,Dra. SEMI MUDIJARTI,021 6329005,A,-6.165488,106.813362
+20107254,SMK Farmasi DITKESAD,Jl. Abdulrahman Saleh no 18,Senen,Senen,174,35,"RIBOED SOEMARGO, S.Si., Apt",021 3456875,A,-6.177265,106.837639
+20107255,SMK Farmasi Tunas Bangsa,Jl. Salemba Tengah II / 1,Paseban,Senen,72,16,"Kensarita, S.Pd., M.Biomed","021 3101243, 021 31925532",A,-6.192724,106.854729
+20107257,SMK Musik Perg. Cikini,Jl. Duren Tiga Raya No.1,Duren Tiga,Pancoran,0,23,Yuli Astuti,021 79180234,A,-6.195034,106.839478
+20107258,SMK Strada Jakarta,Jl. Rajawali Selatan 2 No. 1,Gunung Sahari Utara,Sawah Besar,27,32,JULIANUS WINA,"021 6410146, 021 64713796",A,-6.147084,106.840874
+20107259,SMK Tunas Harapan,Jl. Cempaka Putih Barat 14 Jakarta Pusat,Cempaka Putih Barat,Cempaka Putih,172,19,,021 4224551,B,,
+20107266,SMK Bhakti Pertiwi Jakarta,Jl. Bekasi Timur VI Cipinang Besar Utara,Bali Mester,Jatinegara,67,15,"Muhammad Ibrohim,S.Pdi",021 8506236,B,-6.218705,106.876610
+20107267,SMK Karya EKOPIN,Jl. Raya Pulogebang No. 25,Pulo Gebang,Cakung,0,14,M. FIRDAUS. SE,021 94062251,B,-6.199455,106.955193
+20107268,SMK Prima Wisata,Jl. Raya Bugis,Kembangan Selatan,Kembangan,697,35,H.Muhammad Najihun,021 58358635,A,-6.173942,106.749352
+20107272,SMK Islam Fatahillah Jakarta,Jl. Keutamaan No. 89,Krukut,Taman Sari,67,14,"Uwen Sumanta, S. Pd",021 6344508,A,-6.156000,106.814003
+20107273,SMK Strada II Jakarta,Jl. Tamansari VIII No. 83A,Taman Sari,Taman Sari,151,14,Drs. Ign. Ismihandiyono,021 62200204,A,-6.157017,106.823219
+20107347,SMK Al-Musyarofah,Jl. H. Muchtar Raya Rt 12 Rw 11 No. 95,Petukangan Utara,Pesanggrahan,102,21,"H. Muhamad Patoni, Lc, S. Pd.",021 58905063,B,-6.226000,106.741989
+20107348,SMK Amaliyah,Jl. Akses UI No. 3,Srengseng Sawah,Jagakarsa,271,19,TAUPIK,021 7869085,B,-6.354508,106.834679
+20107350,SMK Farmasi LPK,Raya Lenteng Agung No. 33,Kebagusan,Pasar Minggu,70,22,"Meri Refrita, SE",021 7820657,B,-6.314395,106.835770
+20107351,SMK Kahuripan 2,Jl. Nangka No. 17,Tanjung Barat,Jagakarsa,59,14,"M. INAN SURYADI, M.Pd",021 7810801,B,-6.302886,106.846619
+20107352,SMK Jakarta Wisata,Jl. Praja Dalam E No. 3,Kebayoran Lama Selatan,Kebayoran Lama,119,15,"Shintawati Napitupulu, SE","021 7228870, 021 7221379",A,-6.253409,106.782089
+20107353,SMK Kartika X-2,Jl. Anggrek No. 1,Pesanggrahan,Pesanggrahan,0,22,"Drs. AMIRUDIN, M.M.",021 7370503,A,-6.252423,106.755730
+20107354,SMK Keluarga Widuri,Jl. Gunung Balong I,Lebak Bulus,Cilandak,173,22,"Ahmad Tubagus Romadhon,SST.Par",021 7690081,A,-6.303776,106.787888
+20107355,SMK Krisanti Jakarta,Jl. Kampung Melayu Kecil V/22,Bukit Duri,Tebet,153,16,"Edriyanto, SS",021 8318288,B,-6.222880,106.862106
+20107357,SMK Media Informatika,Jl. Kostrad Raya No. 2,Petukangan Utara,Pesanggrahan,1066,36,"Asep Sudrajat, S.Sos., S.Kom",021 5865251,A,-6.233906,106.757103
+20107358,SMK Negeri 59,Jln. Peninggaran Barat I,Kebayoran Lama Utara,Kebayoran Lama,255,28,"Dra.Hj. MAIMUNAH, M.Pd",021 7292899,A,-6.245665,106.769379
+20107359,SMK Patria Wisata Jakarta,Jl. Pejaten Barat No. 22,Ragunan,Pasar Minggu,275,29,Dra. B. Sri Wardani,021 7815814,A,-6.277125,106.824623
+20107360,SMK Teladan Utama,Jl. Raya Srengseng Sawah No. 74,Srengseng Sawah,Jagakarsa,32,11,"H. UU JUMA, S.Ag",021 7270258,B,-6.346942,106.821732
+20107361,SMK Tirtayasa,Jl. Bintaro Raya 11Tanah Kusir,Kebayoran Lama Utara,Kebayoran Lama,62,17,"Mulyani, S.Pd",021 72895633,B,-6.253015,106.773781
+20107362,SMK Wisata Indonesia,Jl. Raya Lenteng Agung Gg Langgar No. 1,Kebagusan,Pasar Minggu,514,40,"Abdul Munir HMA, M.Pd.",021 78830761,A,-6.310855,106.835129
+20107363,SMK Yaspen,Jl. Menteng Wadas Tengah No 30,Pasar Manggis,Setia Budi,94,11,H. Akhmad Hs.Spdi.Mpd,021 8319876,B,-6.210696,106.837921
+20107364,SMK YPUI Jakarta,Jl. Praja 1 No. 8,Kebayoran Lama Selatan,Kebayoran Lama,344,18,Drs.Zainal Arifin,021 7291217,B,-6.249783,106.779816
+20107403,SMK Al Irsyad Al-Islamiyah,Jl. Mindi No. 29-35,Lagoa,Koja,218,16,Drs. Solikhin,021 43933542,A,-6.115123,106.909737
+20107404,SMK Al Jihad Jakarta,Jl. Papanggo 1 No. 1,Papanggo,Tanjung Priok,223,16,"Sri Purwaningsih, S.Pd.",021 65301793,B,-6.130335,106.882088
+20107405,SMK Al-Khaeriyah Bahari,Jl. Bahari III A8 No.152,Tanjung Priok,Tanjung Priok,247,20,"Khaerul Anam., M.Pd",021 4371849,A,-6.118386,106.873238
+20107406,SMK Al Khairiyah 1,Jl. Mindi No. 2,Lagoa,Koja,250,24,"M. Nahjil Qowim, M.Ag",021 43921733,B,-6.115480,106.910301
+20107407,SMK Al Khairiyah 2,Jl. Mindi No. 2,Lagoa,Koja,393,13,"Drs. H. Syahrial Nahri, MM",021 43921202,A,-6.115507,106.910271
+20107408,SMK Ar Raudhah,Jl. Cemara Blok I No. 79,Lagoa,Koja,269,23,"Dra. Hj. Surya Indrianti, M.Si",021 26063897,B,-6.113175,106.912560
+20107409,SMK Hang Tuah 2,"Jl. Perintis Kemerdekaan, Komp TNI-AL",Kelapa Gading Barat,Kelapa Gading,141,20,DRS.HARSONO SANCOKO.M.Si,021 4533952,A,-6.168122,106.886307
+20107410,SMK Barunawati,Jl. Ganggeng II No. 1,Sungai Bambu,Tanjung Priok,213,26,Drs. Mohamad Zainuddin,021 43912559,A,-6.114974,106.882057
+20107411,SMK Perguruan 'Cikini' Jakarta,Jl. Alur Laut Blok NN No. 1,Rawa Badak Utara,Koja,825,73,"Rifat, M.Pd.",021 43933434,A,-6.123126,106.898758
+20107412,SMK Cilincing 1 Jakarta,Jl. Baru Gang II,Cilincing,Cilincing,136,16,YAN SYUKELA AMRAN S.Pd,021 4407726,B,-6.105404,106.928314
+20107413,SMK Cilincing 3 Jakarta,Jl. Kebantenan IV No. 26,Semper Timur,Cilincing,138,10,"YUSEP HADY SUKMAWAN, S.Pd",021 44834353,B,-6.135920,106.911697
+20107414,SMK Darul Ma'arif,Jl. Madya Kebantenan No. 14,Semper Timur,Cilincing,222,21,Ir. Hoiriyah,021 44836654,B,-6.113101,106.926064
+20107415,"SMK Dharma Budhi Bhakti ""Plus""",Jl. Agung Tengah 7 Blok I-6 No. 1,Sunter Agung,Tanjung Priok,91,12,"IDA BAGUS PUTU MAYUN, S.Pd. MM",021 6513829,A,-6.128343,106.852753
+20107416,SMK Dharma Putra,Jl. Swasembada Barat XI No.92,Kebon Bawang,Tanjung Priok,190,26,"Drs. Alimukdin Damanik, M.Pd",021 43938183,B,-6.123391,106.890930
+20107417,SMK Fajar Indah,Jl. Waspada Raya I/30,Pademangan Barat,Pademangan,172,17,"Susanto, S.Pd.",021 64714183,A,-6.135589,106.839844
+20107418,SMK Gita Kirti 2 Jakarta,Jl. Sunter Jaya No. 4,Sunter Jaya,Tanjung Priok,350,16,"Irwan Efendi, S.Pd.",021 65302951,A,-6.155874,106.867302
+20107419,SMK Global 21 Jakarta,Jl. Lanji No. 2 RT.004/RW.006,Papanggo,Tanjung Priok,38,12,SITI CHOIROH,021 65307204,Tidak Terakreditasi,-6.130147,106.873985
+20107420,SMK Gunung Jati Jakarta,Jl. Sungai Bambu IV No. 35,Sungai Bambu,Tanjung Priok,400,24,"A. Arief Imanuddin,S.Ag",021 4306529,A,-6.128202,106.886047
+20107421,SMK Hang Tuah I Jakarta,Jl. Tabah Raya Komp. TNI AL,Kelapa Gading Barat,Kelapa Gading,512,28,"Pudjiono,M.Pd",021 4535140,A,-6.158968,106.885063
+20107422,SMK Pelayaran Jakarta,Jl. Warakas VI/19 N0.107,Papanggo,Tanjung Priok,54,28,Drs. H. Hartono DK,021 4353790,A,-6.126885,106.874146
+20107423,SMK Jalasena,Jl. Sarang Bango No.27,Semper Timur,Cilincing,114,18,"Arief Hardhianto, SM, SH, S.Pd",021 44854880,A,-6.126881,106.956108
+20107424,SMK Karya Bahari,Jl. Mindi No. 36,Lagoa,Koja,55,13,HARTONO ASHARI.SH.MH,021 43909933,B,-6.113743,106.916031
+20107425,SMK Kasih Ananda,Jl. Pegangsaan Dua,Pegangsaan Dua,Kelapa Gading,162,25,"Drs.Ucup Hadiman,S.Pd","021 4603189, 021 46820530",A,-6.138605,106.914413
+20107426,SMK Kencana 1 Jakarta,Jl. Raya Sungai Bambu Pool 13A,Sungai Bambu,Tanjung Priok,126,24,"Diah Kukuh Nurani, SE.",021 43938541,A,-6.128908,106.888969
+20107427,SMK Kencana 2 Jakarta,Jl. Sungai Bambu Pool 13 A,Sungai Bambu,Tanjung Priok,209,16,"Rudianto Rahmat, ST",021 43938541,A,-6.128844,106.888969
+20107428,SMK K. Harapan Mulia,Jl. Pademangan Timur V Ujung Blok D,Pademangan Timur,Pademangan,61,8,Maurin Gritje Suawah,021 6412761,B,-6.132553,106.832573
+20107429,SMK Kristen Nazaret,Jl. Jembatan II Blok H/29,Pejagalan,Penjaringan,20,6,AMIR SYARIFUDIN,021 6695869,B,-6.140972,106.792778
+20107430,SMK Lagoa,Jl. Lagoa III No. 135,Lagoa,Koja,73,12,"SUROSO,S.Pd",021 4308134,B,-6.117838,106.913391
+20107431,SMK Muhammadiyah 12,Jl. Haji Murtado No. 2a,Tugu Utara,Koja,124,13,Rusnadi,021 43911559,B,-6.129156,106.919083
+20107432,SMK Mutiara 1 Jakarta,Jl. Komp Yos Sudarso II/19,Kebon Bawang,Tanjung Priok,133,24,"Drs. H.R.Idris BSc,SHMM",021 4352520,B,-6.119725,106.892517
+20107433,SMK Negeri 23,Jl. Pademangan III/19,Pademangan Timur,Pademangan,615,35,Drs. Dadan Sabrudin,021 64714260,A,-6.137509,106.842583
+20107434,SMK Negeri 33,Jl. Gading Mas Timur 2,Pegangsaan Dua,Kelapa Gading,102,41,"Sri Tati Sugiarti, S.Pd.",021 4521568,A,-6.161206,106.910851
+20107435,SMK Negeri 36,Jl. Baru Kosambi III,Kalibaru,Cilincing,794,68,"Basuki Rahmad, M.Si",021 4401523,A,-6.099460,106.931000
+20107436,SMK Negeri 4,Jl. Rorotan Vi No. 1,Rorotan,Cilincing,1277,89,Kholil,021 44850035,A,-6.140336,106.953484
+20107437,SMK Negeri 49,Jl. Sarang Bango No. 1,Marunda,Cilincing,593,44,"Meyridalisna, S.Pd",021 44851079,A,-6.129141,106.955193
+20107438,SMK Negeri 55,Jl. Pademangan Timur VII,Pademangan Timur,Pademangan,493,46,,"021 6412787, 021 6411479",A,-6.131394,106.844589
+20107439,SMK Negeri 56,"Jl. Pluit Timur Raya No. 1 Penjaringan, Jak-Utara",Pluit,Penjaringan,1126,82,"Dra. HERLYNA BUTAR BUTAR, MM",021 6602880,A,-6.108467,106.797356
+20107440,SMK Nusantara 1 Jakarta,Jl. Kramat Jaya Agung Gang 8,Semper Barat,Cilincing,180,23,"Purna Widodo, S.Pd.",021 4408883,B,-6.115381,106.917122
+20107441,SMK Nusantara 2,Jl. Kramat Jaya Gg. VIII,Tugu Utara,Koja,379,23,Drs. Supriudin,"021 4408882, 021 44468263",B,-6.121597,106.914185
+20107442,SMK Pangeran Wijaya Kusuma,Jl. Bandengan Utara No. 80,Penjaringan,Penjaringan,95,21,RIYANTO,021 6693514,A,-6.135895,106.801697
+20107443,SMK Pelayaran Jakarta Raya,Jl. Perintis Kemerdekaan Komplek TNI-AL,Kelapa Gading Barat,Kelapa Gading,298,36,"Kol. Laut (T) Widigdho, M.Sc, ATT-II",021 4535057,A,-6.168561,106.885864
+20107445,SMK Pelayaran Djadajat,Jl. Marunda Tiram No.28,Marunda,Cilincing,135,8,"Capt. Muchamad Nur, SE, M.Mar","021 90660429, 021 29478823",B,-6.118097,106.958130
+20107446,SMK Pelayaran Malahayati,Jl. Sungai Tirem No. 43,Marunda,Cilincing,155,29,"H. LUKMAN HAKIM, MM",021 44850410,A,-6.124471,106.958000
+20107447,SMK Perintis Nasional Jakarta,Jl. Swasembada Timur X,Kebon Bawang,Tanjung Priok,102,13,"Dra. Nanda Lubna Nudari, M.Si",021 4353062,B,-6.122974,106.890839
+20107449,SMK Permata Indah Jakarta,Jl. Kamp. Gusti Blok A/1,Pejagalan,Penjaringan,190,19,"MS. Dayanti, Dra",021 6613167,A,-6.138761,106.778244
+20107450,SMK PGRI 11 Jakarta,"Jl. Rorotan VI, Cilincing",Rorotan,Cilincing,1317,60,"Drs, H.Zulfahmi, M.Si",021 44853203,A,-6.141361,106.956017
+20107451,SMK PGRI 3,Jl. Marunda Baru 3,Marunda,Cilincing,188,21,"Onong Iswanda, S.Pd",021 44850915,B,-6.121967,106.915352
+20107452,SMK Pluit Raya,Jl. Jembatan Tiga No.1,Penjaringan,Penjaringan,325,31,"TUTI SUSILAWATI, S.Pd",021 6695274,A,-6.128506,106.791924
+20107453,SMK PSKD 3 Jakarta,Jl. Tanjung Wangi,Pluit,Penjaringan,128,13,DRS. SURYADI PRASETYO,021 6695695,B,-6.129530,106.794868
+20107454,SMK Raudhatul Jannatunna'im,Jl. Budi Mulia No.91,Pademangan Barat,Pademangan,0,18,"Jasmiati, SE., M.Si",021 26694440,B,-6.132853,106.839439
+20107455,SMK Remaja Pluit,Jl. Pluit Selatan I No. 1,Pluit,Penjaringan,756,37,TUBAGUS BAI HAQI,021 66694705,B,-6.125236,106.790680
+20107457,SMK Ristek Hasanudin,Jl. Rawa Badak I No.78-81,Lagoa,Koja,27,11,Drs. Hadi Kartono,021 43905137,C,-6.120765,106.917030
+20107458,SMK Sari Putra,Jl. Kebon Baru Blok X No. 25,Semper Barat,Cilincing,232,15,"Mardianto,S.Pd",021 4407177,B,-6.114739,106.920586
+20107459,SMK Sejahtera Jakarta,Jl. Walang Baru VI No. 19,Tugu Utara,Koja,419,37,"Dr. JUMANTA, M.Pd., M.Si.",021 4358656,A,-6.121045,106.918159
+20107460,SMK Siliwangi,Jl. Maja No. 40,Lagoa,Koja,112,15,"Andi Subhan Mappatunru, SEI",021 43902825,B,-6.115436,106.903618
+20107461,SMK Sismadi (SMIP) Jakarta,Jl. Warakas Raya No.17,Warakas,Tanjung Priok,101,22,"Novy Kurniawati,S.Pd",021 43906643,B,-6.120959,106.884521
+20107462,SMK Spec Patrie,Jl. Ancol Selatan 2 No.1,Sunter Agung,Tanjung Priok,128,16,"Maria Goretti Mulatti, S. Pd.,",021 6507574,A,-6.131550,106.858009
+20107463,SMK Strada 3 Jakarta,Jl. Bhayangkara No. 38,Tugu Utara,Koja,91,17,"Antonia Puspowarti, S.Pd",021 4304987,A,-6.123044,106.915527
+20107464,SMK Syahid Jakarta,Jl. Bakti No. 27.,Cilincing,Cilincing,79,17,"Idrus Almashuri, Drs",021 4415064,B,-6.108970,106.936638
+20107465,SMK Tanjung Priok 1,Jl. Mangga No.3,Lagoa,Koja,1475,55,Drs. Dasril Djamal,021 4301192,A,-6.113102,106.911064
+20107466,SMK Tanjung Priok 2,Jl. Mangga No. 52,Lagoa,Koja,524,34,"Drs. Sukarto, M.Si",021 4359825,A,-6.113123,106.911087
+20107467,SMK Tridharma Budhidaya,Jl. Bidara Raya No. 36,Pejagalan,Penjaringan,67,17,"GUNASUNDARI, S.Pd. MM",021 6620751,B,-6.139904,106.788750
+20107468,SMK Walang Jaya,Jl. STM Walang Jaya No. 1,Tugu Selatan,Koja,0,46,"Aji Wisnugroho,SP.d",021 4354316,A,-6.139424,106.901833
+20107469,SMK Wiyatamandala Jakarta,Jl. Swasembada Timur XIII No. 46-50,Kebon Bawang,Tanjung Priok,113,16,"Muhammad Harly, ST",021 4301158,B,-6.125163,106.891174
+20107470,SMK Wiyatamandala Bakti Jakarta,Jl. Swasembada Timur XIII/46-50,Kebon Bawang,Tanjung Priok,76,31,"Fitriyani, ST","021 4301158, 021 44579562",B,-6.125284,106.884171
+20107471,SMK Yanindo Jakarta,Jl. R. E. Martadinata No.4,Tanjung Priok,Tanjung Priok,388,27,"K. Sunaryadi, SE.,S.Pd.,M.Si","021 43932261, 021 43932988",B,-6.119843,106.866760
+20107472,SMK Yappenda Jakarta,Jl. Swasembada Timur IV No. 12,Kebon Bawang,Tanjung Priok,868,25,JOKO DWIYATMOKO,021 4350435,A,-6.122992,106.891335
+20107474,SMK Yaspi Jaya,Jl. Masjid Al Barkah No.16,Sunter Agung,Tanjung Priok,207,14,Dra. Hj. Tuty Alawiyah,021 65837830,A,-6.143849,106.884430
+20107475,SMK Yusha Jakarta,Jl. Mawar Luar No. 1,Tugu Utara,Koja,193,24,"Siti Rahmatan, BA","021 4356019, 021 4359572, 021 36099692",B,-6.119393,106.908730
+20107593,SMK Bina Pangudi Luhur,Jl. Kramat Asem Raya No. 54,Utan Kayu Selatan,Matraman,492,23,"Dra. RR. Herlina, MM",021 8519154,A,-6.203515,106.870049
+20107597,SMK Pancasila Jakarta,Jl. Kayu Manis Barat No.99,Kayu Manis,Matraman,26,17,Luqmansyah,021 85915813,B,-6.227379,106.871155
+20107598,SMK Tri Sastra 1 Jakarta,Jl. SMP 157,Lubang Buaya,Cipayung,155,17,"Drs.H. Azwarahman, SH.",021 8406922,B,-6.293019,106.900475
+20108509,SMK Muhammadiyah 5 Jakarta (Aisiyah),Jl. Taman Bendungan Jatiluhur 18,Bendungan Hilir,Tanah Abang,387,20,Dra. Siti Fathonah,021 5733335,A,-6.214800,106.811798
+20108510,SMK Jaya Wisata 1 Jakarta,Jl. Taman Sunda Kelapa No. 16 A,Menteng,Menteng,117,15,"ARWIEN MEYZAR, M.Pd",021 3107789,A,-6.201593,106.832634
+20108511,SMK Kesdam Jaya,Jl. Kramat Raya No. 174,Kenari,Senen,291,23,"RUDI FAHRUDIN, SKM, MPd",021 31900313,A,-6.192065,106.846107
+20108512,SMK Nusantara Wisata,Jl. Kayu Putih Utara III C,Pulo Gadung,Pulo Gadung,39,17,Drs. A. Karim Pohan,021 98267153,B,-6.197147,106.907387
+20108513,SMK Rasera 66,Jl. Letjen Suprapto No. 22,Tanah Tinggi,Johar Baru,13,11,Drs. Rustadi,021 4212647,C,-6.175225,106.846069
+20108514,SMK Rex Mundi,Jl. Alaydrus No. 42,Petojo Utara,Gambir,201,18,"Sr. ADRIANA TANGKE PADANG, JMJ",021 63850023,A,-6.165360,106.815697
+20108796,SMK Bina Bangsa,Jl. Tanjung Pura V,Pegadungan,Kalideres,44,12,"Drs. Saman, MM",0817 9193826,Tidak Terakreditasi,-6.126924,106.695267
+20109165,SMK Negeri 61,Pantai Selatan No. 1,Pulau Tidung,Kepulauan Seribu Selatan,200,26,,,A,-5.802386,106.509865
+20109246,SMK Negeri 62,Jl. Camat Gabun 2,Lenteng Agung,Jagakarsa,218,30,"Nunuk Isnadhiyah, M.Pd.",021 78888116,A,-6.337415,106.836525
+20109247,SMK Harnasto Institut,Jl. Cidodol Raya No. 40,Grogol Selatan,Kebayoran Lama,121,18,Drs. Sumadi Dwijo Saptomo,021 7224830,B,-6.228395,106.773689
+20109252,SMK Muhammadiyah 15,Jl. Karet Belakang raya no.4,Karet Kuningan,Setia Budi,123,17,"Ira Chairani, SE",021 52920657,B,-6.215748,106.826050
+20109254,SMK Bakti Idhata,Jl. Melati No. 25,Cilandak Barat,Cilandak,0,30,Radix Gunawan,021 75904088,A,-6.283707,106.794800
+20109260,SMK Al-Miftahiyyah,Jl. Muara Gedung No.17,Kalibaru,Cilincing,61,17,"H. Nasihin, S.Ag",021 44833570,B,-6.099613,106.935898
+20109265,SMK Cyber Media,Jl. Duren Tiga No. 12,Duren Tiga,Pancoran,492,39,"Joko Suranto,SE.MM.",021 79192313,A,-6.253075,106.839561
+20109266,SMK Informatika Yasma,Jl. Jeruk Purut No 10,Cilandak Timur,Pasar Minggu,22,12,"Leni Nurlina, S.Pd",021 7828973,A,-6.287417,106.812553
+20109274,SMK Padindi,Jl. Prepedan Dalam Rt. 012/09 No. 38,Kamal,Kalideres,206,19,"Nurhayati,SE",021 5561438,B,-6.109395,106.701790
+20109304,SMK Bina Medika,Jl. As-Syafi'iyah No.121,Cilangkap,Cipayung,178,17,"Sumartini, S.Kep., MKM",021 91273603,A,-6.331875,106.902916
+20109314,SMK Farmasi Penabur,Jl. Pintu Air Raya No. 11 Jakarta Pusat,Pasar Baru,Sawah Besar,93,23,"R. Y. Bambang Purwono, S.Pd.",021 3510045,A,-6.165366,106.829819
+20109319,SMK PRG SEKESAL,Jl. Bendungan jatiluhur No. 130,Bendungan Hilir,Tanah Abang,81,25,Heny Wihelmina Kotta,021 5736743,A,-6.212528,106.809288
+20109329,SMK Farmasi Rawasari,Jl. Letjend Soeprapto No. 22,Johar Baru,Johar Baru,11,16,"Dra. Tiiti Lestari, Apt",021 28753488,Tidak Terakreditasi,-6.165858,106.872742
+20109459,SMK Kesehatan Mulia Karya Husada,Jl. M. Kahfi II Gang Mesjid An-Nur,Srengseng Sawah,Jagakarsa,200,26,"Hj. Ns. TUTY NURDJANAH, S.Kep","021 78890740, 021 98296942",B,-6.346359,106.815086
+20109490,SMK Karya Dharma 2 Jakarta,"Jl. Raya Bogor Km.28, Gandaria III",Pekayon,Pasar Rebo,163,17,"Devy Oktavera, S.Pd",021 87713975,A,-6.322870,106.863579
+20109505,SMK Dharma Putra 2,Jl. Swasembada Barat XI No.92,Kebon Bawang,Tanjung Priok,317,24,,021 43838183,B,-6.123476,106.890907
+20109526,SMK Yandika,Jl. Masjid Nurul Huda No. 25,Cengkareng Timur,Cengkareng,24,14,"H. M. Haidar Ulinnuha, S.Sos",021 5453717,B,-6.153764,106.731018
+20109541,SMK Trikarya,Jl. Ciputat Raya,Kebayoran Lama Selatan,Kebayoran Lama,46,16,"FITRIYANA SETYOWATI,M.Pd",021 7293973,B,-6.254815,106.778549
+20109547,SMK Farmasi Bhumi Husada,"Jl. Raya Fatmawati No 7, Cilandak, Jak-Sel",Lebak Bulus,Cilandak,46,16,"Drs. Soeatmadji, Apt.",021 7509358,A,-6.280794,106.796547
+20109572,SMK Nusantara,JL. SMU 57,Kedoya Selatan,Kebon Jeruk,366,16,"NAWATI, S.Ag",021 58300726,A,-6.174083,106.756981
+20109617,SMK Mutiara Bangsa Tiga,Jl. Jelambar Barat III No. 5B,Jelambar Baru,Grogol Petamburan,85,16,"DANI RAMDANI, S.Pd",021 56940779,B,-6.144958,106.782166
+20109907,SMK Multi Media Mandiri,Jl. Raya Kedoya Al Kamal No. 2 Kebon Jeruk,Kedoya Selatan,Kebon Jeruk,0,15,"Slamet Riyanto, S.Kom",021 70773052,A,-6.185873,106.761887
+20109930,SMK Analis Kesehatan DITKESAD,Jl. Buntu Munjul,Munjul,Cipayung,180,25,"Drs. Apip Hadi,Apt.,M.Si",021 8450948,A,-6.347650,106.892906
+20109934,SMK Farmasi IKIFA,Jl. Buaran II No. 30A- I Gusti Ngurah Rai,Klender,Duren Sawit,539,37,"Rahmat Widiyanto,S.Si, Apt",021 8661 5594,A,-6.215391,106.920998
+20112288,SMK Atlantica Wisata Jakarta,Jl. Pacuan Kuda No. 1-5 Gedung ASMI Lt. 7-8,Kayu Putih,Pulo Gadung,274,24,"Fie Fie Arsyad, S.Pd.","021 29629353, 021 47869649, 021 47869650",A,-6.180353,106.889587
+20112290,SMK Boss Multimedia,Jl. Raya Buaran No 1,Pulo Gadung,Pulo Gadung,12,19,"Nilam Suryani, S.E.",021 22086049,Tidak Terakreditasi,,
+20112296,SMK Teknik 10 Nopember,Jl. Raya Bogor No. 1,Kramat Jati,Kramat Jati,245,17,"Moh. Sulendro, Drs, M.M.",021 80872328,B,-6.265209,106.866295
+20112429,SMK Bakti 17,Jl. Persahabatan No. 23,Cipedak,Jagakarsa,122,28,"Mini Waryanti, S.Pd",021 7866917,B,-6.348310,106.810333
+20112434,SMK Patmos,Taman Meruya Ilir Blok E-7,Meruya Utara,Kembangan,30,8,"Novi Yanti Sitio,S.Pd",021 586 7643,B,-6.195896,106.753769
+20112443,SMK Negeri 63,Jl. Aselih No. 100,Cipedak,Jagakarsa,361,32,"Drs. H. Ramli, M.Pd.",021 7270419,B,-6.351975,106.798607
+20112446,SMK Didaktika,Jl. Pulo Harapan Indah,Cengkareng Barat,Cengkareng,0,22,"Dr. H. MUHAMMAD ISHOM, MA",021 5556082,B,-6.132835,106.722878
+20112473,SMK Yaspia,Jl. Benda Dalam Gg H. Saenan II No 12,Ciganjur,Jagakarsa,172,25,"Wisnu Nugroho,M.M.",021 78888977,B,-6.330441,106.805695
+20112507,SMK Mitra Wisata,Jl. Giri Kencana No. 31,Cilangkap,Cipayung,72,16,Dra. Tri Bazariyatun,021 84307818,B,-6.339371,106.903091
+20112511,SMK Bina Prestasi,Jl. Raya Condet No. 28,Batu Ampar,Kramat Jati,185,16,Dra.Sofiah,021 8094871,B,-6.271536,106.858162
+20177823,SMK Bintang Nusantara,Jl. Sarang Bangau No.27,Marunda,Cilincing,178,19,"SUHARDI,S.T",021 44853966,Tidak Terakreditasi,-6.127490,106.956100
+20177826,SMK Purnama Mandiri,Jalan Margasatwa Gg H Beden No. 105,Pondok Labu,Cilandak,121,13,"Yasin, S.Sos",021 75919969,Tidak Terakreditasi,-6.309892,106.807602
+20177829,SMK Tunas Medika,Jl. Setu Raya No. 67 Pinang,Cipayung,Cipayung,81,33,"EDY SUPRIYANTO, SH.,MH",021 84309342,B,-6.327622,106.901955
+20177894,SMK Kapin 2,Jl. Raya Kalimalang,Pondok Kelapa,Duren Sawit,38,12,"Fahmi Hidayatun, S.Si",021 8645191,B,-6.248720,106.929771
+20177895,SMK Mandala Tiara Bangsa,Jl. Rawamangun Muka Selatan,Rawamangun,Pulo Gadung,55,17,"Dra. Endang M. Kurnianti, M.Ed",021 45773687,B,,
+20177896,SMK Mahadhika 4,Jl. Raya Bogor Km. 25,Cijantung,Pasar Rebo,451,52,"Wawan Sujanarko, M.Pd",021 87701953,B,-6.322698,106.862556
+20177897,SMK Insan Cita,Jl. Daan Mogot Raya KM 18 No. 28,Kalideres,Kalideres,141,11,Ida Farida,021 29405179,B,,
+20177909,SMK Kristen Kanaan,Jl. Kran Raya No. 7,Gunung Sahari Selatan,Kemayoran,124,10,"SWANDI SUSANTO, S. KOM.",021 92477910,Tidak Terakreditasi,-6.159604,106.846794
+20177915,SMK As-Syafi'iyah 2,Jl. As-Syafi'iyah No.37,Cilangkap,Cipayung,81,13,"HM MAQBUL, Drs",021 8448874,B,-6.332086,106.902611
+20177921,SMK Laboratorium,Jl. Rawa Jaya No.37 Pondok Kopi,Pondok Kopi,Duren Sawit,75,10,Ginanjar Hijriah Prasetia,021 8648369,C,-6.234984,106.943893
+20177923,SMK PGRI 37,Jl. Pondok Labu 1B No. 29A,Lebak Bulus,Cilandak,0,13,"Hidayatullah, S.Pd",021 7650039,B,-6.303201,106.792892
+20177925,SMK Sarasvati,Jl. Pacuan Kuda No. 1-5,Pulo Gadung,Pulo Gadung,13,16,Anggraeni Esti Suyoto,021 4756939,C,-6.173164,106.888161
+20178278,SMK Gita Wisata,Jl. Raya Bekasi Km. 26,Ujung Menteng,Cakung,41,15,,021 33622549,B,-6.185051,106.962906
+20178280,SMK Tunas Grafika Informatika,Jl. H. Ilyas No. 6,Petukangan Utara,Pesanggrahan,289,30,"Dedy Supriadi, SPd, SE, M.Si",021 5868169,A,-6.231408,106.749908
+20178281,SMK Kafah Unggul 2 Jakarta,Jl. Jembatan Besi No. 12,Jembatan Besi,Tambora,56,,,021 7373068,B,,
+20178282,SMK PGRI 38,Jl.Tabah I No.5 Komp. TNI-AL kODAMAR,Kelapa Gading Barat,Kelapa Gading,85,9,Drs. Sedya Basuki Martosuyono,021 4584 7636,B,-6.162915,106.884911
+20178283,SMK Cempaka,Jl. Cempaka Putih Barat1,Cempaka Putih Barat,Cempaka Putih,309,14,Washadi,021 4264432,B,,
+69758520,SMK Medical High School,Jl. Raya Munjul No. 2,Munjul,Cipayung,67,24,"Sularto, S.Pd",021 84597132,B,-6.349804,106.894989
+69758521,SMK Prestasi Prima,Jl. Hamkam Raya No. 89,Cilangkap,Cipayung,994,46,"Haryanto, M. M.Pd",021 84306823,A,-6.331907,106.897896
+69758983,SMK Kawula Jakarta,Jl Bungur No.29,Rambutan,Ciracas,54,15,MUNGGUH,021 87792746,B,-6.316280,106.885117
+69759304,SMK Dewi Sartika,Jl. Kebon Nanas Utara II/23,Cipinang Cempedak,Jatinegara,263,21,"Sri Saidah Supriyati, S.Pd",021 85914453,A,,
+69760657,SMK Nusantara Wisata Respati,Jl. Raya Inpres,Kampung Tengah,Kramat Jati,37,19,I Made Wendha SE.MM,021 87795732,Tidak Terakreditasi,-6.287960,106.868996
+69760735,SMK Permata Dunia,Jl. Pedongkelan Belakang No. 46,Kapuk,Cengkareng,238,3,"Amrullah Arfan, S.Pd.",,B,,
+69761954,SMK Kesehatan Global Cendekia,Jl. Gadang No.83 - 85,Tanjung Priok,Tanjung Priok,270,30,"ANGGRAINI ZAENAB, DR.MM",021 98832884,Tidak Terakreditasi,-6.116852,106.883621
+69761967,SMK Al Muttaqin,Jl. Kapuk Muara,Kapuk Muara,Penjaringan,106,15,"Ustutifa Qori Mirawati, SE",021 80763280,Tidak Terakreditasi,-6.133704,106.775146
+69762614,SMK KESEHATAN TERPADU AR RAISIYAH HUSADA,Jl. Al Baidlo Raya No. 29,Lubang Buaya,Cipayung,134,21,"Asmaul Husnah, S.Pd., M.Si.",021 87791792,Tidak Terakreditasi,,
+69764515,SMK Cengkareng 2,Jl. Kawasan Rumah Susun Perumnas No. 2,Cengkareng Timur,Cengkareng,1141,27,SUKATNO,021 26741515,Tidak Terakreditasi,-6.132582,106.738045
+69768184,SMK Putra Mandiri,Jl. Asia Baru Kepa Duri No. 60,Duri Kepa,Kebon Jeruk,43,5,"rahmat, S.Sos",021 5674776,Tidak Terakreditasi,-6.173718,106.772072
+69772516,SMK PGRI 39 Jakarta,Jl. I Gusti Ngurah Rai,Penggilingan,Cakung,163,21,Drs Dedi Kurnaedi Ikin,021 46823922,Tidak Terakreditasi,-6.215946,106.926956
+69773002,SMK Bakthi Negeri,Jl. Belly Mekar V,Cijantung,Pasar Rebo,59,15,"Lutfi Agus Arkom, S.Pd.I",021 87701183,B,-6.316663,106.856773
+69774556,SMK Citra Utama,Jl. Lingkungan III,Tegal Alur,Kalideres,278,10,DEDY MARTEJO,021 55950633,Tidak Terakreditasi,-6.107282,106.710518
+69774850,SMK Multimedia Nusantara Jakarta,Cipinang Besar No. 2,Cipinang Besar Selatan,Jatinegara,260,17,"Drs. Karto Manalu, SH,MM,MH.",021 85901415,B,-6.227929,106.878349
+69774854,SMK Kesehatan Gapura Merah Putih,Jl. Raya Jagakarsa No. 20,Ciganjur,Jagakarsa,0,1,"Ns.Yuli Yanti, S.Kep",021 22712170,B,,
+69775233,SMK Putra Nusantara,Jl. Bambu Larangan,Pegadungan,Kalideres,62,7,"Qurtubi, S. Sos",021 96862423,Tidak Terakreditasi,-6.137658,106.715744
+69775769,SMK Insan Mulia Informatika,Jl. Kapuk,Bambu Apus,Cipayung,38,14,"Drs. Widodo, M. Pd",021 84900948,C,-6.303505,106.913559
+69786987,SMK 3 Perguruan Cikini,Jl. Srengseng Sawah No. 79,Srengseng Sawah,Jagakarsa,544,58,"Gito Suroso, M.Si",021 7865396,A,-6.343727,106.828148
+69787516,SMK Kesehatan Sekawan,Jl. Kemandoran I,Grogol Utara,Kebayoran Lama,90,14,"Hj. Nurmawati,S.Si.T,.M.Kes",021 53662478,Tidak Terakreditasi,-6.268547,106.805992
+69819337,SMK Sumbangsih,Jl. Ampera Raya No.3-4,Cilandak Timur,Pasar Minggu,173,33,LUKY DJENIWATY KIMAN,021 7814125,A,-6.278215,106.820030
+69821209,SMK Triguna 1956,Jl. Hang Lekiu III No.17,Gunung,Kebayoran Baru,229,31,"Ervina, S.Pd",021 7392334,A,-6.229668,106.797028
+69829196,SMK Global Cendekia,Jl. Raya Bekasi KM. 23,Cakung Barat,Cakung,113,12,ACHMAD ABDUL LATIP S.E,021 46826963,Tidak Terakreditasi,-6.184616,106.943848
+69849427,SMK Yaspia 17,Jl. Pulo gebang,Pulo Gebang,Cakung,40,14,Khoirunnisa,,B,,
+69849606,SMK Perguruan Rakyat 2,Jl. AD lampiri Raya No. 28,Pondok Kelapa,Duren Sawit,122,23,"FARRAH VIENNA, S.ST.MM",021 86907118,Tidak Terakreditasi,-6.252483,106.940300
+69856220,SMK Bina Citra Asia ,JL. Al-Amin No. 1,Kramat Jati,Kramat Jati,186,28,R BAMBANG SUSETOCAHYO,021 22801778,B,-6.284178,106.875832
+69867717,SMK Assa'adah,Jl. H. Said No. 29,Gandaria Utara,Kebayoran Baru,78,11,Suryo Adji Priyo Rahardjo,,,,
+69873590,SMK Bina Nusa Mandiri,Jl. Raya Ciracas No. 1,Ciracas,Ciracas,332,20,"Dra. Soparidah, M.Pd. MM",021 29617006,Tidak Terakreditasi,-6.329061,106.879143
+69900081,SMK PGRI 40 Jakarta,"Gg. Musholla Al Ikhsan, Jl. Rawa Kuning No. 119",Pulo Gebang,Cakung,33,1,DIDING HAMDANI,021 96687852,C,,
+NP637129,SMK Insan Mandiri Jakarta,Jl. Moch Kahfi II NO.48,Jagakarsa,Jagakarsa,68,26,HARUN ROSYID,021 78893057,Tidak Terakreditasi,-6.332879,106.830887
+,SMK Pariwisata Sumbangsih,Jln. Dr. Mawardi II No. 13,Grogol,Grogol Petamburan,13,,,021 29440741,Tidak Terakreditasi,,
+,SMK Prestasi Agung,Jl. Rawamangun Muka Selatan No. 21-23,Rawamangun,Pulo Gadung,21,22,WIWIET MAEMUNAH,021 47885275,Tidak Terakreditasi,-6.201625,106.880959
+,SMK Global Persada,Jl. Raya Kembangan Utara No. 14,Kembangan Utara,Kembangan,0,14,"Agus Windyarto, S. Pi",021 58358421,C,-6.176165,106.745979
+,SMK Swadaya Global School,Jl. Kecubung V,Duren Sawit,Duren Sawit,0,10,"HUSNI HASRI YANTO.. S.Si, Apt",021 83293897,Tidak Terakreditasi,-6.224345,106.905548
+,SMK Islam Al Makiyyah,Jl. Raya Pondok Gede Gg.Gorda I No. 17,Lubang Buaya,Cipayung,112,19,"Ruzqiyah Ulfa, S.Sos,M.Si","021 87790741, 021 87790746",B,-6.264500,106.936501
